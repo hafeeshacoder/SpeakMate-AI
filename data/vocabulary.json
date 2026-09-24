@@ -1,0 +1,947 @@
+[
+  {
+    "id": 1,
+    "word": "grateful",
+    "meaning": "feeling or showing thankfulness",
+    "example": "I am grateful for your help today.",
+    "synonym": "thankful",
+    "difficulty": "beginner",
+    "category": "Daily English"
+  },
+  {
+    "id": 2,
+    "word": "exhausted",
+    "meaning": "extremely tired",
+    "example": "After the long trip, she felt exhausted.",
+    "synonym": "tired",
+    "difficulty": "beginner",
+    "category": "Daily English"
+  },
+  {
+    "id": 3,
+    "word": "routine",
+    "meaning": "a regular way of doing things in a particular order",
+    "example": "Waking up at 6 am is part of my daily routine.",
+    "synonym": "habit",
+    "difficulty": "beginner",
+    "category": "Daily English"
+  },
+  {
+    "id": 4,
+    "word": "convenient",
+    "meaning": "suitable for one's needs without difficulty",
+    "example": "This app makes shopping very convenient.",
+    "synonym": "handy",
+    "difficulty": "elementary",
+    "category": "Daily English"
+  },
+  {
+    "id": 5,
+    "word": "errand",
+    "meaning": "a short trip taken to do a task",
+    "example": "I have to run a few errands this afternoon.",
+    "synonym": "task",
+    "difficulty": "elementary",
+    "category": "Daily English"
+  },
+  {
+    "id": 6,
+    "word": "leisure",
+    "meaning": "free time when one is not working",
+    "example": "We spent our leisure time reading books.",
+    "synonym": "free time",
+    "difficulty": "elementary",
+    "category": "Daily English"
+  },
+  {
+    "id": 7,
+    "word": "occasionally",
+    "meaning": "sometimes but not often",
+    "example": "I occasionally eat out on weekends.",
+    "synonym": "sometimes",
+    "difficulty": "intermediate",
+    "category": "Daily English"
+  },
+  {
+    "id": 8,
+    "word": "chore",
+    "meaning": "a routine task, especially a household one",
+    "example": "Washing dishes is a daily chore for me.",
+    "synonym": "task",
+    "difficulty": "beginner",
+    "category": "Daily English"
+  },
+  {
+    "id": 9,
+    "word": "punctual",
+    "meaning": "arriving or doing something at the expected time",
+    "example": "He is always punctual for meetings.",
+    "synonym": "on time",
+    "difficulty": "intermediate",
+    "category": "Daily English"
+  },
+  {
+    "id": 10,
+    "word": "hectic",
+    "meaning": "full of activity; very busy",
+    "example": "Mornings in our house are always hectic.",
+    "synonym": "busy",
+    "difficulty": "intermediate",
+    "category": "Daily English"
+  },
+  {
+    "id": 11,
+    "word": "relax",
+    "meaning": "to rest and become less tense",
+    "example": "I like to relax by listening to music.",
+    "synonym": "unwind",
+    "difficulty": "beginner",
+    "category": "Daily English"
+  },
+  {
+    "id": 12,
+    "word": "neighborhood",
+    "meaning": "the area or district surrounding a particular place",
+    "example": "There is a nice park in our neighborhood.",
+    "synonym": "locality",
+    "difficulty": "beginner",
+    "category": "Daily English"
+  },
+  {
+    "id": 13,
+    "word": "appointment",
+    "meaning": "an arrangement to meet someone at a fixed time",
+    "example": "I have a doctor's appointment tomorrow.",
+    "synonym": "meeting",
+    "difficulty": "elementary",
+    "category": "Daily English"
+  },
+  {
+    "id": 14,
+    "word": "commute",
+    "meaning": "to travel regularly between home and work",
+    "example": "She commutes to the city every day.",
+    "synonym": "travel",
+    "difficulty": "intermediate",
+    "category": "Daily English"
+  },
+  {
+    "id": 15,
+    "word": "effortless",
+    "meaning": "requiring no physical or mental exertion",
+    "example": "She made the difficult task look effortless.",
+    "synonym": "easy",
+    "difficulty": "upper_intermediate",
+    "category": "Daily English"
+  },
+  {
+    "id": 16,
+    "word": "curriculum",
+    "meaning": "the subjects included in a course of study",
+    "example": "The college updated its curriculum this year.",
+    "synonym": "syllabus",
+    "difficulty": "intermediate",
+    "category": "College"
+  },
+  {
+    "id": 17,
+    "word": "semester",
+    "meaning": "half of a school or college year",
+    "example": "This is my final semester of engineering.",
+    "synonym": "term",
+    "difficulty": "beginner",
+    "category": "College"
+  },
+  {
+    "id": 18,
+    "word": "assignment",
+    "meaning": "a task or piece of work given to someone",
+    "example": "I need to submit my assignment by Friday.",
+    "synonym": "task",
+    "difficulty": "beginner",
+    "category": "College"
+  },
+  {
+    "id": 19,
+    "word": "faculty",
+    "meaning": "the teaching staff of a school or college",
+    "example": "The faculty organized a workshop on AI.",
+    "synonym": "teaching staff",
+    "difficulty": "intermediate",
+    "category": "College"
+  },
+  {
+    "id": 20,
+    "word": "scholarship",
+    "meaning": "financial aid given to a student for education",
+    "example": "She received a scholarship for her academic excellence.",
+    "synonym": "grant",
+    "difficulty": "intermediate",
+    "category": "College"
+  },
+  {
+    "id": 21,
+    "word": "lecture",
+    "meaning": "an educational talk given to a group of students",
+    "example": "The professor gave an interesting lecture on ethics.",
+    "synonym": "talk",
+    "difficulty": "beginner",
+    "category": "College"
+  },
+  {
+    "id": 22,
+    "word": "dissertation",
+    "meaning": "a long piece of writing on a particular subject for a degree",
+    "example": "He is working on his dissertation this semester.",
+    "synonym": "thesis",
+    "difficulty": "advanced",
+    "category": "College"
+  },
+  {
+    "id": 23,
+    "word": "plagiarism",
+    "meaning": "using someone else's work without giving credit",
+    "example": "The university has strict rules against plagiarism.",
+    "synonym": "copying",
+    "difficulty": "upper_intermediate",
+    "category": "College"
+  },
+  {
+    "id": 24,
+    "word": "elective",
+    "meaning": "an optional course chosen by a student",
+    "example": "I chose psychology as my elective this year.",
+    "synonym": "optional subject",
+    "difficulty": "intermediate",
+    "category": "College"
+  },
+  {
+    "id": 25,
+    "word": "campus",
+    "meaning": "the grounds and buildings of a college or university",
+    "example": "The campus has a beautiful library and sports complex.",
+    "synonym": "grounds",
+    "difficulty": "beginner",
+    "category": "College"
+  },
+  {
+    "id": 26,
+    "word": "internship",
+    "meaning": "a period of practical training in a company",
+    "example": "I completed a summer internship at a tech startup.",
+    "synonym": "traineeship",
+    "difficulty": "elementary",
+    "category": "College"
+  },
+  {
+    "id": 27,
+    "word": "credit",
+    "meaning": "a unit given for completing part of a course",
+    "example": "You need 120 credits to graduate.",
+    "synonym": "unit",
+    "difficulty": "intermediate",
+    "category": "College"
+  },
+  {
+    "id": 28,
+    "word": "peer",
+    "meaning": "a person of the same age or status as you",
+    "example": "Group study with peers can improve understanding.",
+    "synonym": "classmate",
+    "difficulty": "elementary",
+    "category": "College"
+  },
+  {
+    "id": 29,
+    "word": "syllabus",
+    "meaning": "an outline of a course's topics",
+    "example": "Please check the syllabus before the exam.",
+    "synonym": "curriculum",
+    "difficulty": "elementary",
+    "category": "College"
+  },
+  {
+    "id": 30,
+    "word": "algorithm",
+    "meaning": "a step-by-step procedure for solving a problem",
+    "example": "The app uses an algorithm to recommend videos.",
+    "synonym": "procedure",
+    "difficulty": "intermediate",
+    "category": "Technology"
+  },
+  {
+    "id": 31,
+    "word": "database",
+    "meaning": "an organized collection of structured data",
+    "example": "Customer details are stored in a secure database.",
+    "synonym": "data store",
+    "difficulty": "intermediate",
+    "category": "Technology"
+  },
+  {
+    "id": 32,
+    "word": "interface",
+    "meaning": "a point where two systems or a user and system meet",
+    "example": "The new interface is much easier to use.",
+    "synonym": "dashboard",
+    "difficulty": "intermediate",
+    "category": "Technology"
+  },
+  {
+    "id": 33,
+    "word": "bandwidth",
+    "meaning": "the amount of data that can be transferred over a network",
+    "example": "Slow bandwidth is causing the video to buffer.",
+    "synonym": "data capacity",
+    "difficulty": "upper_intermediate",
+    "category": "Technology"
+  },
+  {
+    "id": 34,
+    "word": "encryption",
+    "meaning": "converting data into a code to prevent unauthorized access",
+    "example": "The app uses encryption to protect user passwords.",
+    "synonym": "encoding",
+    "difficulty": "upper_intermediate",
+    "category": "Technology"
+  },
+  {
+    "id": 35,
+    "word": "firmware",
+    "meaning": "permanent software programmed into a hardware device",
+    "example": "The device needs a firmware update to work properly.",
+    "synonym": "embedded software",
+    "difficulty": "advanced",
+    "category": "Technology"
+  },
+  {
+    "id": 36,
+    "word": "deploy",
+    "meaning": "to make software available for use",
+    "example": "We will deploy the new update next week.",
+    "synonym": "release",
+    "difficulty": "intermediate",
+    "category": "Technology"
+  },
+  {
+    "id": 37,
+    "word": "debug",
+    "meaning": "to find and remove errors from computer code",
+    "example": "I spent the whole evening debugging the program.",
+    "synonym": "fix",
+    "difficulty": "intermediate",
+    "category": "Technology"
+  },
+  {
+    "id": 38,
+    "word": "cloud computing",
+    "meaning": "delivering computing services over the internet",
+    "example": "Our company moved its data to cloud computing.",
+    "synonym": "online computing",
+    "difficulty": "upper_intermediate",
+    "category": "Technology"
+  },
+  {
+    "id": 39,
+    "word": "cybersecurity",
+    "meaning": "the practice of protecting systems from digital attacks",
+    "example": "Cybersecurity is a growing career field.",
+    "synonym": "digital security",
+    "difficulty": "intermediate",
+    "category": "Technology"
+  },
+  {
+    "id": 40,
+    "word": "automation",
+    "meaning": "using technology to perform tasks without human effort",
+    "example": "Automation has improved factory efficiency.",
+    "synonym": "mechanization",
+    "difficulty": "intermediate",
+    "category": "Technology"
+  },
+  {
+    "id": 41,
+    "word": "interface",
+    "meaning": "software or hardware allowing interaction between systems",
+    "example": "The API interface connects the two applications.",
+    "synonym": "connection point",
+    "difficulty": "advanced",
+    "category": "Technology"
+  },
+  {
+    "id": 42,
+    "word": "artificial intelligence",
+    "meaning": "computer systems performing tasks that normally need human intelligence",
+    "example": "Artificial intelligence is transforming many industries.",
+    "synonym": "AI",
+    "difficulty": "intermediate",
+    "category": "Technology"
+  },
+  {
+    "id": 43,
+    "word": "server",
+    "meaning": "a computer that provides data to other computers",
+    "example": "The website went down because the server crashed.",
+    "synonym": "host computer",
+    "difficulty": "elementary",
+    "category": "Technology"
+  },
+  {
+    "id": 44,
+    "word": "scalable",
+    "meaning": "able to be changed in size or scale",
+    "example": "The startup built a scalable software solution.",
+    "synonym": "adaptable",
+    "difficulty": "advanced",
+    "category": "Technology"
+  },
+  {
+    "id": 45,
+    "word": "deadline",
+    "meaning": "the latest time by which something must be completed",
+    "example": "We must submit the report before the deadline.",
+    "synonym": "time limit",
+    "difficulty": "beginner",
+    "category": "Workplace"
+  },
+  {
+    "id": 46,
+    "word": "colleague",
+    "meaning": "a person one works with",
+    "example": "My colleague helped me finish the report.",
+    "synonym": "coworker",
+    "difficulty": "beginner",
+    "category": "Workplace"
+  },
+  {
+    "id": 47,
+    "word": "promotion",
+    "meaning": "advancement to a higher position or rank",
+    "example": "She received a promotion after two years.",
+    "synonym": "advancement",
+    "difficulty": "elementary",
+    "category": "Workplace"
+  },
+  {
+    "id": 48,
+    "word": "negotiate",
+    "meaning": "to discuss something to reach an agreement",
+    "example": "We need to negotiate a better price with the supplier.",
+    "synonym": "bargain",
+    "difficulty": "intermediate",
+    "category": "Workplace"
+  },
+  {
+    "id": 49,
+    "word": "delegate",
+    "meaning": "to assign a task to someone else",
+    "example": "A good manager knows how to delegate tasks.",
+    "synonym": "assign",
+    "difficulty": "intermediate",
+    "category": "Workplace"
+  },
+  {
+    "id": 50,
+    "word": "productivity",
+    "meaning": "the effectiveness of productive effort",
+    "example": "Remote work has improved my productivity.",
+    "synonym": "efficiency",
+    "difficulty": "intermediate",
+    "category": "Workplace"
+  },
+  {
+    "id": 51,
+    "word": "feedback",
+    "meaning": "information about performance used for improvement",
+    "example": "My manager gave me useful feedback on my project.",
+    "synonym": "input",
+    "difficulty": "elementary",
+    "category": "Workplace"
+  },
+  {
+    "id": 52,
+    "word": "initiative",
+    "meaning": "the ability to act independently and take action",
+    "example": "She showed great initiative by solving the issue herself.",
+    "synonym": "self-motivation",
+    "difficulty": "upper_intermediate",
+    "category": "Workplace"
+  },
+  {
+    "id": 53,
+    "word": "onboarding",
+    "meaning": "the process of integrating a new employee into a company",
+    "example": "The onboarding process included training sessions.",
+    "synonym": "orientation",
+    "difficulty": "upper_intermediate",
+    "category": "Workplace"
+  },
+  {
+    "id": 54,
+    "word": "appraisal",
+    "meaning": "an assessment of an employee's performance",
+    "example": "My annual appraisal is scheduled for next week.",
+    "synonym": "evaluation",
+    "difficulty": "upper_intermediate",
+    "category": "Workplace"
+  },
+  {
+    "id": 55,
+    "word": "stakeholder",
+    "meaning": "a person with an interest in a business or project",
+    "example": "We presented the results to all stakeholders.",
+    "synonym": "interested party",
+    "difficulty": "advanced",
+    "category": "Workplace"
+  },
+  {
+    "id": 56,
+    "word": "workflow",
+    "meaning": "the sequence of steps in a work process",
+    "example": "We streamlined our workflow to save time.",
+    "synonym": "process",
+    "difficulty": "intermediate",
+    "category": "Workplace"
+  },
+  {
+    "id": 57,
+    "word": "collaborate",
+    "meaning": "to work jointly with others on a task",
+    "example": "Our teams collaborate closely on every project.",
+    "synonym": "cooperate",
+    "difficulty": "intermediate",
+    "category": "Workplace"
+  },
+  {
+    "id": 58,
+    "word": "resign",
+    "meaning": "to formally give up a job or position",
+    "example": "He decided to resign from his current role.",
+    "synonym": "quit",
+    "difficulty": "elementary",
+    "category": "Workplace"
+  },
+  {
+    "id": 59,
+    "word": "efficient",
+    "meaning": "achieving results with minimal wasted effort",
+    "example": "The new system is far more efficient.",
+    "synonym": "effective",
+    "difficulty": "elementary",
+    "category": "Workplace"
+  },
+  {
+    "id": 60,
+    "word": "articulate",
+    "meaning": "able to express ideas clearly and effectively",
+    "example": "She is very articulate during presentations.",
+    "synonym": "expressive",
+    "difficulty": "upper_intermediate",
+    "category": "Communication"
+  },
+  {
+    "id": 61,
+    "word": "concise",
+    "meaning": "giving information clearly in few words",
+    "example": "Please keep your email concise and to the point.",
+    "synonym": "brief",
+    "difficulty": "intermediate",
+    "category": "Communication"
+  },
+  {
+    "id": 62,
+    "word": "persuade",
+    "meaning": "to cause someone to believe or do something through reasoning",
+    "example": "He tried to persuade the team to accept his plan.",
+    "synonym": "convince",
+    "difficulty": "intermediate",
+    "category": "Communication"
+  },
+  {
+    "id": 63,
+    "word": "clarify",
+    "meaning": "to make a statement or situation clearer",
+    "example": "Could you clarify what you meant by that?",
+    "synonym": "explain",
+    "difficulty": "elementary",
+    "category": "Communication"
+  },
+  {
+    "id": 64,
+    "word": "empathy",
+    "meaning": "the ability to understand and share another's feelings",
+    "example": "Good communicators show empathy toward others.",
+    "synonym": "understanding",
+    "difficulty": "upper_intermediate",
+    "category": "Communication"
+  },
+  {
+    "id": 65,
+    "word": "feedback",
+    "meaning": "a response or reaction providing information for improvement",
+    "example": "Give me your honest feedback on my speech.",
+    "synonym": "response",
+    "difficulty": "elementary",
+    "category": "Communication"
+  },
+  {
+    "id": 66,
+    "word": "assertive",
+    "meaning": "confident and direct without being aggressive",
+    "example": "It's important to be assertive during negotiations.",
+    "synonym": "confident",
+    "difficulty": "upper_intermediate",
+    "category": "Communication"
+  },
+  {
+    "id": 67,
+    "word": "elaborate",
+    "meaning": "to explain in further detail",
+    "example": "Could you elaborate on your last point?",
+    "synonym": "expand",
+    "difficulty": "intermediate",
+    "category": "Communication"
+  },
+  {
+    "id": 68,
+    "word": "tone",
+    "meaning": "the general attitude or feeling expressed in speech/writing",
+    "example": "Watch your tone when speaking to customers.",
+    "synonym": "manner",
+    "difficulty": "intermediate",
+    "category": "Communication"
+  },
+  {
+    "id": 69,
+    "word": "rapport",
+    "meaning": "a close and harmonious relationship with someone",
+    "example": "The interviewer quickly built rapport with the candidate.",
+    "synonym": "connection",
+    "difficulty": "advanced",
+    "category": "Communication"
+  },
+  {
+    "id": 70,
+    "word": "paraphrase",
+    "meaning": "to express the meaning of something using different words",
+    "example": "Try to paraphrase the article in your own words.",
+    "synonym": "reword",
+    "difficulty": "intermediate",
+    "category": "Communication"
+  },
+  {
+    "id": 71,
+    "word": "nonverbal",
+    "meaning": "communication without words, e.g. gestures",
+    "example": "Nonverbal cues like eye contact matter in interviews.",
+    "synonym": "body language",
+    "difficulty": "upper_intermediate",
+    "category": "Communication"
+  },
+  {
+    "id": 72,
+    "word": "interrupt",
+    "meaning": "to stop someone while they are speaking",
+    "example": "It's impolite to interrupt someone during a conversation.",
+    "synonym": "cut in",
+    "difficulty": "elementary",
+    "category": "Communication"
+  },
+  {
+    "id": 73,
+    "word": "fluent",
+    "meaning": "able to speak or write smoothly and easily",
+    "example": "She is fluent in both English and Spanish.",
+    "synonym": "proficient",
+    "difficulty": "intermediate",
+    "category": "Communication"
+  },
+  {
+    "id": 74,
+    "word": "diplomatic",
+    "meaning": "handling sensitive matters tactfully",
+    "example": "He gave a diplomatic answer to avoid conflict.",
+    "synonym": "tactful",
+    "difficulty": "advanced",
+    "category": "Communication"
+  },
+  {
+    "id": 75,
+    "word": "candidate",
+    "meaning": "a person who applies for a job or position",
+    "example": "There were ten candidates for the position.",
+    "synonym": "applicant",
+    "difficulty": "beginner",
+    "category": "Interview"
+  },
+  {
+    "id": 76,
+    "word": "strength",
+    "meaning": "a good or beneficial quality of a person",
+    "example": "My greatest strength is problem-solving.",
+    "synonym": "asset",
+    "difficulty": "beginner",
+    "category": "Interview"
+  },
+  {
+    "id": 77,
+    "word": "weakness",
+    "meaning": "a disadvantage or limitation in a person's ability",
+    "example": "I'm working on improving my public speaking weakness.",
+    "synonym": "shortcoming",
+    "difficulty": "beginner",
+    "category": "Interview"
+  },
+  {
+    "id": 78,
+    "word": "qualification",
+    "meaning": "a skill or achievement making someone suitable for a job",
+    "example": "She has all the qualifications needed for this role.",
+    "synonym": "credential",
+    "difficulty": "elementary",
+    "category": "Interview"
+  },
+  {
+    "id": 79,
+    "word": "resume",
+    "meaning": "a document summarizing a person's work experience",
+    "example": "Please attach your resume to the application.",
+    "synonym": "CV",
+    "difficulty": "elementary",
+    "category": "Interview"
+  },
+  {
+    "id": 80,
+    "word": "proactive",
+    "meaning": "taking action by causing change rather than reacting",
+    "example": "Being proactive helps you solve problems before they grow.",
+    "synonym": "forward-thinking",
+    "difficulty": "upper_intermediate",
+    "category": "Interview"
+  },
+  {
+    "id": 81,
+    "word": "adaptable",
+    "meaning": "able to adjust to new conditions easily",
+    "example": "Being adaptable is important in a fast-changing workplace.",
+    "synonym": "flexible",
+    "difficulty": "intermediate",
+    "category": "Interview"
+  },
+  {
+    "id": 82,
+    "word": "accomplishment",
+    "meaning": "something successfully achieved",
+    "example": "Leading that project was my biggest accomplishment.",
+    "synonym": "achievement",
+    "difficulty": "elementary",
+    "category": "Interview"
+  },
+  {
+    "id": 83,
+    "word": "expectation",
+    "meaning": "a strong belief about what will happen or is due",
+    "example": "What are your salary expectations for this role?",
+    "synonym": "anticipation",
+    "difficulty": "elementary",
+    "category": "Interview"
+  },
+  {
+    "id": 84,
+    "word": "competent",
+    "meaning": "having the necessary skill or knowledge to do something",
+    "example": "He is a competent developer with strong fundamentals.",
+    "synonym": "capable",
+    "difficulty": "intermediate",
+    "category": "Interview"
+  },
+  {
+    "id": 85,
+    "word": "motivate",
+    "meaning": "to give someone a reason to act in a certain way",
+    "example": "What motivates you to perform well at work?",
+    "synonym": "inspire",
+    "difficulty": "intermediate",
+    "category": "Interview"
+  },
+  {
+    "id": 86,
+    "word": "interpersonal",
+    "meaning": "relating to relationships between people",
+    "example": "Strong interpersonal skills help in team environments.",
+    "synonym": "social",
+    "difficulty": "upper_intermediate",
+    "category": "Interview"
+  },
+  {
+    "id": 87,
+    "word": "prioritize",
+    "meaning": "to treat something as more important than other things",
+    "example": "I prioritize tasks based on their deadlines.",
+    "synonym": "rank",
+    "difficulty": "intermediate",
+    "category": "Interview"
+  },
+  {
+    "id": 88,
+    "word": "professional",
+    "meaning": "relating to or connected with a job or career",
+    "example": "She always maintains a professional attitude at work.",
+    "synonym": "businesslike",
+    "difficulty": "elementary",
+    "category": "Interview"
+  },
+  {
+    "id": 89,
+    "word": "negotiable",
+    "meaning": "open to discussion or change",
+    "example": "The starting salary is negotiable based on experience.",
+    "synonym": "flexible",
+    "difficulty": "upper_intermediate",
+    "category": "Interview"
+  },
+  {
+    "id": 90,
+    "word": "collaborate",
+    "meaning": "to work together with others to produce something",
+    "example": "Our departments collaborate on every major launch.",
+    "synonym": "cooperate",
+    "difficulty": "intermediate",
+    "category": "Professional English"
+  },
+  {
+    "id": 91,
+    "word": "streamline",
+    "meaning": "to make a process more efficient by simplifying it",
+    "example": "We streamlined our approval process to save time.",
+    "synonym": "simplify",
+    "difficulty": "upper_intermediate",
+    "category": "Professional English"
+  },
+  {
+    "id": 92,
+    "word": "leverage",
+    "meaning": "to use something to maximum advantage",
+    "example": "The company leveraged social media to grow its brand.",
+    "synonym": "utilize",
+    "difficulty": "upper_intermediate",
+    "category": "Professional English"
+  },
+  {
+    "id": 93,
+    "word": "synergy",
+    "meaning": "the combined effect greater than the sum of parts",
+    "example": "There was great synergy between the marketing and sales teams.",
+    "synonym": "cooperation",
+    "difficulty": "advanced",
+    "category": "Professional English"
+  },
+  {
+    "id": 94,
+    "word": "benchmark",
+    "meaning": "a standard used to measure or compare performance",
+    "example": "We use industry benchmarks to evaluate our progress.",
+    "synonym": "standard",
+    "difficulty": "advanced",
+    "category": "Professional English"
+  },
+  {
+    "id": 95,
+    "word": "milestone",
+    "meaning": "a significant point in development or progress",
+    "example": "Launching the app was a major milestone for us.",
+    "synonym": "landmark",
+    "difficulty": "intermediate",
+    "category": "Professional English"
+  },
+  {
+    "id": 96,
+    "word": "feasible",
+    "meaning": "possible and practical to achieve",
+    "example": "Is it feasible to complete this project by June?",
+    "synonym": "achievable",
+    "difficulty": "upper_intermediate",
+    "category": "Professional English"
+  },
+  {
+    "id": 97,
+    "word": "comprehensive",
+    "meaning": "complete and including everything necessary",
+    "example": "She gave a comprehensive overview of the market.",
+    "synonym": "thorough",
+    "difficulty": "upper_intermediate",
+    "category": "Professional English"
+  },
+  {
+    "id": 98,
+    "word": "implement",
+    "meaning": "to put a decision or plan into effect",
+    "example": "We plan to implement the new policy next month.",
+    "synonym": "execute",
+    "difficulty": "intermediate",
+    "category": "Professional English"
+  },
+  {
+    "id": 99,
+    "word": "optimize",
+    "meaning": "to make the best or most effective use of something",
+    "example": "We need to optimize our workflow to reduce delays.",
+    "synonym": "improve",
+    "difficulty": "upper_intermediate",
+    "category": "Professional English"
+  },
+  {
+    "id": 100,
+    "word": "transparent",
+    "meaning": "open and honest, without hidden information",
+    "example": "The company values transparent communication with employees.",
+    "synonym": "open",
+    "difficulty": "intermediate",
+    "category": "Professional English"
+  },
+  {
+    "id": 101,
+    "word": "accountability",
+    "meaning": "the state of being responsible for one's actions",
+    "example": "Accountability is a core value in our team culture.",
+    "synonym": "responsibility",
+    "difficulty": "upper_intermediate",
+    "category": "Professional English"
+  },
+  {
+    "id": 102,
+    "word": "versatile",
+    "meaning": "able to adapt to many different functions or activities",
+    "example": "He is a versatile employee who handles many roles well.",
+    "synonym": "flexible",
+    "difficulty": "upper_intermediate",
+    "category": "Professional English"
+  },
+  {
+    "id": 103,
+    "word": "innovative",
+    "meaning": "featuring new methods; advanced and original",
+    "example": "The startup is known for its innovative products.",
+    "synonym": "creative",
+    "difficulty": "intermediate",
+    "category": "Professional English"
+  },
+  {
+    "id": 104,
+    "word": "meticulous",
+    "meaning": "showing great attention to detail",
+    "example": "She is meticulous when reviewing financial reports.",
+    "synonym": "careful",
+    "difficulty": "advanced",
+    "category": "Professional English"
+  },
+  {
+    "id": 105,
+    "word": "stakeholder",
+    "meaning": "anyone with an interest or investment in a project",
+    "example": "We gathered feedback from all key stakeholders.",
+    "synonym": "interested party",
+    "difficulty": "advanced",
+    "category": "Professional English"
+  }
+]

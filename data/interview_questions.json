@@ -1,0 +1,210 @@
+{
+  "hr_questions": [
+    {
+      "id": 1,
+      "question": "Tell me about yourself.",
+      "category": "HR"
+    },
+    {
+      "id": 2,
+      "question": "What are your strengths?",
+      "category": "HR"
+    },
+    {
+      "id": 3,
+      "question": "What are your weaknesses?",
+      "category": "HR"
+    },
+    {
+      "id": 4,
+      "question": "Why should we hire you?",
+      "category": "HR"
+    },
+    {
+      "id": 5,
+      "question": "Why do you want this job?",
+      "category": "HR"
+    },
+    {
+      "id": 6,
+      "question": "Why did you choose computer science?",
+      "category": "HR"
+    },
+    {
+      "id": 7,
+      "question": "Tell me about your project.",
+      "category": "HR"
+    },
+    {
+      "id": 8,
+      "question": "Tell me about your internship.",
+      "category": "HR"
+    },
+    {
+      "id": 9,
+      "question": "Where do you see yourself in five years?",
+      "category": "HR"
+    },
+    {
+      "id": 10,
+      "question": "Tell me about a challenge you faced.",
+      "category": "HR"
+    },
+    {
+      "id": 11,
+      "question": "How do you handle pressure?",
+      "category": "HR"
+    },
+    {
+      "id": 12,
+      "question": "Tell me about a team experience.",
+      "category": "HR"
+    },
+    {
+      "id": 13,
+      "question": "What motivates you?",
+      "category": "HR"
+    },
+    {
+      "id": 14,
+      "question": "Why should we select you?",
+      "category": "HR"
+    },
+    {
+      "id": 15,
+      "question": "How do you handle criticism?",
+      "category": "HR"
+    },
+    {
+      "id": 16,
+      "question": "Describe a time you failed and what you learned.",
+      "category": "HR"
+    },
+    {
+      "id": 17,
+      "question": "How do you prioritize your work?",
+      "category": "HR"
+    },
+    {
+      "id": 18,
+      "question": "What is your greatest achievement so far?",
+      "category": "HR"
+    },
+    {
+      "id": 19,
+      "question": "How do you handle conflict with a coworker?",
+      "category": "HR"
+    },
+    {
+      "id": 20,
+      "question": "What do you know about our company?",
+      "category": "HR"
+    },
+    {
+      "id": 21,
+      "question": "Why do you want to leave your current role?",
+      "category": "HR"
+    },
+    {
+      "id": 22,
+      "question": "What are your salary expectations?",
+      "category": "HR"
+    },
+    {
+      "id": 23,
+      "question": "How do you keep yourself updated with new skills?",
+      "category": "HR"
+    },
+    {
+      "id": 24,
+      "question": "Describe your ideal work environment.",
+      "category": "HR"
+    },
+    {
+      "id": 25,
+      "question": "How do you handle tight deadlines?",
+      "category": "HR"
+    },
+    {
+      "id": 26,
+      "question": "What makes you different from other candidates?",
+      "category": "HR"
+    },
+    {
+      "id": 27,
+      "question": "Tell me about a time you took initiative.",
+      "category": "HR"
+    },
+    {
+      "id": 28,
+      "question": "How do you stay motivated during repetitive tasks?",
+      "category": "HR"
+    },
+    {
+      "id": 29,
+      "question": "What questions do you have for us?",
+      "category": "HR"
+    },
+    {
+      "id": 30,
+      "question": "How would your friends describe you?",
+      "category": "HR"
+    }
+  ],
+  "technical_topics": [
+    {
+      "id": 1,
+      "topic": "Python",
+      "prompt": "Explain what Python is and describe one project where you used it.",
+      "category": "Technical Communication"
+    },
+    {
+      "id": 2,
+      "topic": "SQL",
+      "prompt": "Explain what SQL is used for and describe a query you have written.",
+      "category": "Technical Communication"
+    },
+    {
+      "id": 3,
+      "topic": "AI",
+      "prompt": "Explain artificial intelligence in simple terms and give one real-world example.",
+      "category": "Technical Communication"
+    },
+    {
+      "id": 4,
+      "topic": "Machine Learning",
+      "prompt": "Explain the difference between supervised and unsupervised learning.",
+      "category": "Technical Communication"
+    },
+    {
+      "id": 5,
+      "topic": "NLP",
+      "prompt": "Explain what natural language processing is and where it is used.",
+      "category": "Technical Communication"
+    },
+    {
+      "id": 6,
+      "topic": "Your project",
+      "prompt": "Walk through the architecture and purpose of a project you built.",
+      "category": "Technical Communication"
+    },
+    {
+      "id": 7,
+      "topic": "Internship",
+      "prompt": "Describe a technical task you performed during an internship.",
+      "category": "Technical Communication"
+    },
+    {
+      "id": 8,
+      "topic": "Problem solving",
+      "prompt": "Describe your approach to solving a complex technical problem.",
+      "category": "Technical Communication"
+    },
+    {
+      "id": 9,
+      "topic": "Technologies you know",
+      "prompt": "List the key technologies you know and how you have applied them.",
+      "category": "Technical Communication"
+    }
+  ]
+}

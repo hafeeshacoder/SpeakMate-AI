@@ -1,0 +1,2777 @@
+[
+  {
+    "id": 1,
+    "topic": "Parts of Speech",
+    "category": "Foundation",
+    "difficulty": "beginner",
+    "question": "In the sentence 'The dog barked loudly,' what part of speech is 'loudly'?",
+    "options": [
+      "Noun",
+      "Verb",
+      "Adverb",
+      "Adjective"
+    ],
+    "correct_answer": "Adverb",
+    "explanation": "'Loudly' describes how the dog barked, so it modifies the verb \u2014 this makes it an adverb."
+  },
+  {
+    "id": 2,
+    "topic": "Parts of Speech",
+    "category": "Foundation",
+    "difficulty": "beginner",
+    "question": "Which word in 'She quickly finished her homework' is the verb?",
+    "options": [
+      "She",
+      "quickly",
+      "finished",
+      "homework"
+    ],
+    "correct_answer": "finished",
+    "explanation": "'Finished' shows the action performed by the subject 'She', making it the verb."
+  },
+  {
+    "id": 3,
+    "topic": "Parts of Speech",
+    "category": "Foundation",
+    "difficulty": "beginner",
+    "question": "Identify the noun in the sentence: 'Happiness makes life beautiful.'",
+    "options": [
+      "Happiness",
+      "makes",
+      "beautiful",
+      "life"
+    ],
+    "correct_answer": "Happiness",
+    "explanation": "'Happiness' and 'life' are both nouns, but here we identify 'Happiness' as the subject noun of the sentence."
+  },
+  {
+    "id": 4,
+    "topic": "Parts of Speech",
+    "category": "Foundation",
+    "difficulty": "elementary",
+    "question": "Which part of speech is the word 'and' in 'Tom and Jerry are friends'?",
+    "options": [
+      "Preposition",
+      "Conjunction",
+      "Pronoun",
+      "Adjective"
+    ],
+    "correct_answer": "Conjunction",
+    "explanation": "'And' joins two nouns together, which is the function of a conjunction."
+  },
+  {
+    "id": 5,
+    "topic": "Parts of Speech",
+    "category": "Foundation",
+    "difficulty": "elementary",
+    "question": "What part of speech is 'beautiful' in 'She wore a beautiful dress'?",
+    "options": [
+      "Noun",
+      "Adjective",
+      "Adverb",
+      "Verb"
+    ],
+    "correct_answer": "Adjective",
+    "explanation": "'Beautiful' describes the noun 'dress', so it functions as an adjective."
+  },
+  {
+    "id": 6,
+    "topic": "Parts of Speech",
+    "category": "Foundation",
+    "difficulty": "elementary",
+    "question": "Choose the interjection: 'Wow! That was an amazing performance.'",
+    "options": [
+      "Wow",
+      "amazing",
+      "performance",
+      "was"
+    ],
+    "correct_answer": "Wow",
+    "explanation": "'Wow' expresses sudden emotion and stands alone, which is the role of an interjection."
+  },
+  {
+    "id": 7,
+    "topic": "Parts of Speech",
+    "category": "Foundation",
+    "difficulty": "intermediate",
+    "question": "In 'He runs faster than his brother,' what part of speech is 'faster'?",
+    "options": [
+      "Noun",
+      "Adverb",
+      "Preposition",
+      "Conjunction"
+    ],
+    "correct_answer": "Adverb",
+    "explanation": "'Faster' modifies the verb 'runs' by describing how he runs, making it an adverb (comparative form)."
+  },
+  {
+    "id": 8,
+    "topic": "Parts of Speech",
+    "category": "Foundation",
+    "difficulty": "intermediate",
+    "question": "Which word functions as a preposition in 'The book is on the table'?",
+    "options": [
+      "book",
+      "is",
+      "on",
+      "table"
+    ],
+    "correct_answer": "on",
+    "explanation": "'On' shows the relationship in place between 'book' and 'table', which is the role of a preposition."
+  },
+  {
+    "id": 9,
+    "topic": "Parts of Speech",
+    "category": "Foundation",
+    "difficulty": "upper_intermediate",
+    "question": "In the sentence 'Although tired, she continued working,' what part of speech is 'although'?",
+    "options": [
+      "Adverb",
+      "Preposition",
+      "Subordinating Conjunction",
+      "Pronoun"
+    ],
+    "correct_answer": "Subordinating Conjunction",
+    "explanation": "'Although' introduces a subordinate clause and connects it to the main clause, making it a subordinating conjunction."
+  },
+  {
+    "id": 10,
+    "topic": "Parts of Speech",
+    "category": "Foundation",
+    "difficulty": "advanced",
+    "question": "Identify the part of speech of 'whom' in 'The man whom you met is my uncle.'",
+    "options": [
+      "Relative Pronoun",
+      "Interrogative Pronoun",
+      "Adjective",
+      "Conjunction"
+    ],
+    "correct_answer": "Relative Pronoun",
+    "explanation": "'Whom' introduces a relative clause referring back to 'the man', functioning as a relative pronoun."
+  },
+  {
+    "id": 11,
+    "topic": "Nouns",
+    "category": "Foundation",
+    "difficulty": "beginner",
+    "question": "Which of these is a collective noun?",
+    "options": [
+      "Team",
+      "Run",
+      "Quickly",
+      "Happy"
+    ],
+    "correct_answer": "Team",
+    "explanation": "'Team' refers to a group of people considered as one unit, which is the definition of a collective noun."
+  },
+  {
+    "id": 12,
+    "topic": "Nouns",
+    "category": "Foundation",
+    "difficulty": "beginner",
+    "question": "Choose the correct plural form of 'child'.",
+    "options": [
+      "Childs",
+      "Childes",
+      "Children",
+      "Childrens"
+    ],
+    "correct_answer": "Children",
+    "explanation": "'Child' has an irregular plural form: 'children', not formed by simply adding -s."
+  },
+  {
+    "id": 13,
+    "topic": "Nouns",
+    "category": "Foundation",
+    "difficulty": "beginner",
+    "question": "Which sentence uses an abstract noun correctly?",
+    "options": [
+      "She has a beautiful honesty.",
+      "Honesty is the best policy.",
+      "He bought an honesty yesterday.",
+      "The honesty are on the table."
+    ],
+    "correct_answer": "Honesty is the best policy.",
+    "explanation": "'Honesty' is an abstract noun referring to a quality, and this sentence uses it correctly as a subject."
+  },
+  {
+    "id": 14,
+    "topic": "Nouns",
+    "category": "Foundation",
+    "difficulty": "elementary",
+    "question": "Identify the proper noun: 'My friend Raj lives in Chennai.'",
+    "options": [
+      "friend",
+      "Raj",
+      "lives",
+      "in"
+    ],
+    "correct_answer": "Raj",
+    "explanation": "'Raj' names a specific person, so it is capitalized and functions as a proper noun."
+  },
+  {
+    "id": 15,
+    "topic": "Nouns",
+    "category": "Foundation",
+    "difficulty": "elementary",
+    "question": "Which word is a possessive noun in 'The teacher's book is on the desk'?",
+    "options": [
+      "teacher's",
+      "book",
+      "on",
+      "desk"
+    ],
+    "correct_answer": "teacher's",
+    "explanation": "The apostrophe + s in 'teacher's' shows ownership, making it a possessive noun."
+  },
+  {
+    "id": 16,
+    "topic": "Nouns",
+    "category": "Foundation",
+    "difficulty": "intermediate",
+    "question": "Choose the correct plural of 'analysis'.",
+    "options": [
+      "Analysises",
+      "Analyses",
+      "Analysis's",
+      "Analysi"
+    ],
+    "correct_answer": "Analyses",
+    "explanation": "Words ending in '-is' from Greek/Latin roots, like 'analysis', typically form plurals by changing to '-es': 'analyses'."
+  },
+  {
+    "id": 17,
+    "topic": "Nouns",
+    "category": "Foundation",
+    "difficulty": "intermediate",
+    "question": "Which sentence correctly uses a countable and uncountable noun together?",
+    "options": [
+      "I need some informations.",
+      "I need some advice and two suggestions.",
+      "I have many furnitures.",
+      "She has three equipments."
+    ],
+    "correct_answer": "I need some advice and two suggestions.",
+    "explanation": "'Advice' is uncountable (no plural), while 'suggestions' is countable, and this sentence treats both correctly."
+  },
+  {
+    "id": 18,
+    "topic": "Nouns",
+    "category": "Foundation",
+    "difficulty": "upper_intermediate",
+    "question": "Identify the compound noun in: 'The mother-in-law arrived early.'",
+    "options": [
+      "mother-in-law",
+      "arrived",
+      "early",
+      "The"
+    ],
+    "correct_answer": "mother-in-law",
+    "explanation": "'Mother-in-law' combines multiple words to form a single noun concept, making it a compound noun."
+  },
+  {
+    "id": 19,
+    "topic": "Nouns",
+    "category": "Foundation",
+    "difficulty": "advanced",
+    "question": "Which sentence demonstrates correct use of a gerund as a noun?",
+    "options": [
+      "Swimming is my favorite exercise.",
+      "I am swimming to the store.",
+      "She swims every morning.",
+      "The swim was long."
+    ],
+    "correct_answer": "Swimming is my favorite exercise.",
+    "explanation": "Here 'Swimming' acts as the subject of the sentence, showing the '-ing' form of a verb used as a noun (gerund)."
+  },
+  {
+    "id": 20,
+    "topic": "Nouns",
+    "category": "Foundation",
+    "difficulty": "advanced",
+    "question": "Choose the sentence with correct noun-pronoun agreement.",
+    "options": [
+      "Each student must bring their own laptop.",
+      "Each student must bring his or her own laptop.",
+      "Each students must bring their laptop.",
+      "Every student must bring they laptop."
+    ],
+    "correct_answer": "Each student must bring his or her own laptop.",
+    "explanation": "'Each student' is singular, so traditionally it agrees with the singular 'his or her' (though 'their' is increasingly accepted informally)."
+  },
+  {
+    "id": 21,
+    "topic": "Pronouns",
+    "category": "Foundation",
+    "difficulty": "beginner",
+    "question": "Choose the correct pronoun: '___ is my best friend.'",
+    "options": [
+      "Him",
+      "She",
+      "Her",
+      "Them"
+    ],
+    "correct_answer": "She",
+    "explanation": "'She' is a subject pronoun, which correctly fills the subject position in the sentence."
+  },
+  {
+    "id": 22,
+    "topic": "Pronouns",
+    "category": "Foundation",
+    "difficulty": "beginner",
+    "question": "Select the correct possessive pronoun: 'This book is ___.'",
+    "options": [
+      "my",
+      "mine",
+      "I",
+      "me"
+    ],
+    "correct_answer": "mine",
+    "explanation": "'Mine' is a possessive pronoun that stands alone to show ownership, unlike 'my' which needs a noun after it."
+  },
+  {
+    "id": 23,
+    "topic": "Pronouns",
+    "category": "Foundation",
+    "difficulty": "elementary",
+    "question": "Choose the correct reflexive pronoun: 'She hurt ___ while cooking.'",
+    "options": [
+      "her",
+      "herself",
+      "hers",
+      "she"
+    ],
+    "correct_answer": "herself",
+    "explanation": "'Herself' is a reflexive pronoun used when the subject and object of the action are the same person."
+  },
+  {
+    "id": 24,
+    "topic": "Pronouns",
+    "category": "Foundation",
+    "difficulty": "elementary",
+    "question": "Which sentence uses an object pronoun correctly?",
+    "options": [
+      "Give the book to I.",
+      "Give the book to me.",
+      "Give the book to my.",
+      "Give the book to mine."
+    ],
+    "correct_answer": "Give the book to me.",
+    "explanation": "'Me' is the object pronoun used after a preposition ('to'), while 'I' is used only as a subject."
+  },
+  {
+    "id": 25,
+    "topic": "Pronouns",
+    "category": "Foundation",
+    "difficulty": "intermediate",
+    "question": "Choose the correct relative pronoun: 'The woman ___ helped me was very kind.'",
+    "options": [
+      "which",
+      "who",
+      "whom",
+      "whose"
+    ],
+    "correct_answer": "who",
+    "explanation": "'Who' refers to people and functions as the subject of the relative clause, making it correct here."
+  },
+  {
+    "id": 26,
+    "topic": "Pronouns",
+    "category": "Foundation",
+    "difficulty": "intermediate",
+    "question": "Which sentence correctly uses an indefinite pronoun?",
+    "options": [
+      "Someone left their umbrella here.",
+      "Someone left they umbrella here.",
+      "Someone left theirselves umbrella here.",
+      "Someone left its umbrella here."
+    ],
+    "correct_answer": "Someone left their umbrella here.",
+    "explanation": "'Someone' is an indefinite pronoun, and 'their' is commonly used as a gender-neutral possessive pronoun to refer back to it."
+  },
+  {
+    "id": 27,
+    "topic": "Pronouns",
+    "category": "Foundation",
+    "difficulty": "upper_intermediate",
+    "question": "Identify the correct sentence regarding pronoun-antecedent agreement.",
+    "options": [
+      "Neither of the boys brought their book.",
+      "Neither of the boys brought his book.",
+      "Neither of the boys brought them book.",
+      "Neither of the boys brought it book."
+    ],
+    "correct_answer": "Neither of the boys brought his book.",
+    "explanation": "'Neither' is singular, so it formally agrees with the singular pronoun 'his'."
+  },
+  {
+    "id": 28,
+    "topic": "Pronouns",
+    "category": "Foundation",
+    "difficulty": "advanced",
+    "question": "Choose the sentence with the correctly used demonstrative pronoun.",
+    "options": [
+      "This are my books.",
+      "These is my book.",
+      "These are my books.",
+      "This is my books."
+    ],
+    "correct_answer": "These are my books.",
+    "explanation": "'These' is plural and agrees with the plural noun 'books' and the plural verb 'are'."
+  },
+  {
+    "id": 29,
+    "topic": "Verbs",
+    "category": "Foundation",
+    "difficulty": "beginner",
+    "question": "Choose the correct verb form: 'She ___ to school every day.'",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "gone"
+    ],
+    "correct_answer": "goes",
+    "explanation": "With third-person singular subjects (she/he/it) in the simple present, the verb takes an -s ending: 'goes'."
+  },
+  {
+    "id": 30,
+    "topic": "Verbs",
+    "category": "Foundation",
+    "difficulty": "beginner",
+    "question": "Identify the verb in the sentence: 'The children play in the park.'",
+    "options": [
+      "children",
+      "play",
+      "in",
+      "park"
+    ],
+    "correct_answer": "play",
+    "explanation": "'Play' shows the action the children are doing, making it the main verb of the sentence."
+  },
+  {
+    "id": 31,
+    "topic": "Verbs",
+    "category": "Foundation",
+    "difficulty": "elementary",
+    "question": "Choose the correct past tense of 'go'.",
+    "options": [
+      "goed",
+      "gone",
+      "went",
+      "going"
+    ],
+    "correct_answer": "went",
+    "explanation": "'Go' is an irregular verb; its simple past form is 'went', not formed by adding -ed."
+  },
+  {
+    "id": 32,
+    "topic": "Verbs",
+    "category": "Foundation",
+    "difficulty": "elementary",
+    "question": "Which sentence uses a linking verb correctly?",
+    "options": [
+      "She is happy.",
+      "She happy is.",
+      "She are happy.",
+      "She happiness is."
+    ],
+    "correct_answer": "She is happy.",
+    "explanation": "'Is' links the subject 'She' to the adjective 'happy' describing her state, which is the role of a linking verb."
+  },
+  {
+    "id": 33,
+    "topic": "Verbs",
+    "category": "Foundation",
+    "difficulty": "intermediate",
+    "question": "Choose the correct auxiliary verb: 'They ___ finished their project by tomorrow.'",
+    "options": [
+      "will",
+      "will have",
+      "have",
+      "had"
+    ],
+    "correct_answer": "will have",
+    "explanation": "The future perfect tense uses 'will have' + past participle to show an action completed before a future point."
+  },
+  {
+    "id": 34,
+    "topic": "Verbs",
+    "category": "Foundation",
+    "difficulty": "intermediate",
+    "question": "Identify the phrasal verb in: 'Please turn off the lights before leaving.'",
+    "options": [
+      "Please",
+      "turn off",
+      "lights",
+      "leaving"
+    ],
+    "correct_answer": "turn off",
+    "explanation": "'Turn off' combines a verb and a particle to create a new meaning ('to switch off'), which defines a phrasal verb."
+  },
+  {
+    "id": 35,
+    "topic": "Verbs",
+    "category": "Foundation",
+    "difficulty": "upper_intermediate",
+    "question": "Which sentence correctly uses a modal verb to express possibility?",
+    "options": [
+      "She must be at home now.",
+      "She might be at home now.",
+      "She should be at home now.",
+      "She will be at home now."
+    ],
+    "correct_answer": "She might be at home now.",
+    "explanation": "'Might' expresses a possibility rather than certainty or obligation, unlike 'must' or 'should'."
+  },
+  {
+    "id": 36,
+    "topic": "Verbs",
+    "category": "Foundation",
+    "difficulty": "advanced",
+    "question": "Choose the sentence with correct subjunctive mood usage.",
+    "options": [
+      "I wish I was taller.",
+      "I wish I were taller.",
+      "I wish I am taller.",
+      "I wish I be taller."
+    ],
+    "correct_answer": "I wish I were taller.",
+    "explanation": "In formal subjunctive mood for hypothetical wishes, 'were' is used for all subjects instead of 'was'."
+  },
+  {
+    "id": 37,
+    "topic": "Verbs",
+    "category": "Foundation",
+    "difficulty": "advanced",
+    "question": "Identify the correct causative verb structure.",
+    "options": [
+      "I had my car repair.",
+      "I had my car repaired.",
+      "I had my car repairing.",
+      "I had my car to repair."
+    ],
+    "correct_answer": "I had my car repaired.",
+    "explanation": "The causative structure 'have + object + past participle' shows that someone else performed the action for you."
+  },
+  {
+    "id": 38,
+    "topic": "Adjectives",
+    "category": "Foundation",
+    "difficulty": "beginner",
+    "question": "Choose the adjective in: 'She has a red car.'",
+    "options": [
+      "She",
+      "has",
+      "red",
+      "car"
+    ],
+    "correct_answer": "red",
+    "explanation": "'Red' describes the noun 'car', which is exactly the function of an adjective."
+  },
+  {
+    "id": 39,
+    "topic": "Adjectives",
+    "category": "Foundation",
+    "difficulty": "beginner",
+    "question": "Select the correct comparative form of 'big'.",
+    "options": [
+      "bigger",
+      "more big",
+      "biggest",
+      "big"
+    ],
+    "correct_answer": "bigger",
+    "explanation": "One-syllable adjectives like 'big' form the comparative by adding -er: 'bigger'."
+  },
+  {
+    "id": 40,
+    "topic": "Adjectives",
+    "category": "Foundation",
+    "difficulty": "elementary",
+    "question": "Choose the correct superlative form of 'beautiful'.",
+    "options": [
+      "beautifulest",
+      "most beautiful",
+      "more beautiful",
+      "beautifuller"
+    ],
+    "correct_answer": "most beautiful",
+    "explanation": "Adjectives with three or more syllables use 'most' to form the superlative instead of adding -est."
+  },
+  {
+    "id": 41,
+    "topic": "Adjectives",
+    "category": "Foundation",
+    "difficulty": "elementary",
+    "question": "Which sentence uses adjective order correctly?",
+    "options": [
+      "She bought a red beautiful dress.",
+      "She bought a beautiful red dress.",
+      "She bought a dress red beautiful.",
+      "She bought beautiful a red dress."
+    ],
+    "correct_answer": "She bought a beautiful red dress.",
+    "explanation": "In English, opinion adjectives (beautiful) usually come before color adjectives (red)."
+  },
+  {
+    "id": 42,
+    "topic": "Adjectives",
+    "category": "Foundation",
+    "difficulty": "intermediate",
+    "question": "Choose the correct sentence using 'than' for comparison.",
+    "options": [
+      "He is taller then his brother.",
+      "He is taller than his brother.",
+      "He is more taller than his brother.",
+      "He is tallest than his brother."
+    ],
+    "correct_answer": "He is taller than his brother.",
+    "explanation": "'Than' (not 'then') is used to introduce the second element in a comparison."
+  },
+  {
+    "id": 43,
+    "topic": "Adjectives",
+    "category": "Foundation",
+    "difficulty": "intermediate",
+    "question": "Which sentence correctly uses a participial adjective?",
+    "options": [
+      "The movie was boring.",
+      "The movie was bored.",
+      "I am boring of the movie.",
+      "The movie bores boring."
+    ],
+    "correct_answer": "The movie was boring.",
+    "explanation": "'Boring' (present participle) describes the effect the movie has, while 'bored' would describe a person's feeling."
+  },
+  {
+    "id": 44,
+    "topic": "Adjectives",
+    "category": "Foundation",
+    "difficulty": "upper_intermediate",
+    "question": "Choose the correctly formed comparative sentence.",
+    "options": [
+      "This is the more interesting book I have read.",
+      "This is the most interesting book I have read.",
+      "This is the interestinger book I have read.",
+      "This is interesting book I have read."
+    ],
+    "correct_answer": "This is the most interesting book I have read.",
+    "explanation": "Superlatives (most interesting) are used, with 'the', when comparing one thing to all others in a group."
+  },
+  {
+    "id": 45,
+    "topic": "Adjectives",
+    "category": "Foundation",
+    "difficulty": "advanced",
+    "question": "Identify the sentence with the correct use of a compound adjective.",
+    "options": [
+      "It was a well known fact.",
+      "It was a well-known fact.",
+      "It was a good known fact.",
+      "It was a well-know fact."
+    ],
+    "correct_answer": "It was a well-known fact.",
+    "explanation": "Compound adjectives formed before a noun (well-known) are typically hyphenated."
+  },
+  {
+    "id": 46,
+    "topic": "Adverbs",
+    "category": "Foundation",
+    "difficulty": "beginner",
+    "question": "Choose the adverb in: 'He speaks English fluently.'",
+    "options": [
+      "speaks",
+      "English",
+      "fluently",
+      "He"
+    ],
+    "correct_answer": "fluently",
+    "explanation": "'Fluently' describes how he speaks, modifying the verb 'speaks', which makes it an adverb."
+  },
+  {
+    "id": 47,
+    "topic": "Adverbs",
+    "category": "Foundation",
+    "difficulty": "beginner",
+    "question": "Select the correct adverb of frequency: 'She ___ arrives late.'",
+    "options": [
+      "never",
+      "quick",
+      "happy",
+      "good"
+    ],
+    "correct_answer": "never",
+    "explanation": "'Never' tells how often something happens, which is the role of an adverb of frequency."
+  },
+  {
+    "id": 48,
+    "topic": "Adverbs",
+    "category": "Foundation",
+    "difficulty": "elementary",
+    "question": "Choose the correctly placed adverb: '___ , she finished her homework.'",
+    "options": [
+      "Quick",
+      "Quickly",
+      "Quickness",
+      "Quicker"
+    ],
+    "correct_answer": "Quickly",
+    "explanation": "Adverbs, not adjectives, modify how an action is performed; 'quickly' is the correct adverb form."
+  },
+  {
+    "id": 49,
+    "topic": "Adverbs",
+    "category": "Foundation",
+    "difficulty": "elementary",
+    "question": "Identify the adverb of place: 'The keys are somewhere inside.'",
+    "options": [
+      "keys",
+      "are",
+      "somewhere",
+      "inside"
+    ],
+    "correct_answer": "inside",
+    "explanation": "'Inside' tells us the location, which is the function of an adverb of place (note: 'somewhere' is also adverbial, but 'inside' is the clearest place adverb here)."
+  },
+  {
+    "id": 50,
+    "topic": "Adverbs",
+    "category": "Foundation",
+    "difficulty": "intermediate",
+    "question": "Choose the correct sentence with an adverb of degree.",
+    "options": [
+      "She is very tired.",
+      "She is very tiredly.",
+      "She is much tired.",
+      "She very is tired."
+    ],
+    "correct_answer": "She is very tired.",
+    "explanation": "'Very' is an adverb of degree that intensifies the adjective 'tired'."
+  },
+  {
+    "id": 51,
+    "topic": "Adverbs",
+    "category": "Foundation",
+    "difficulty": "intermediate",
+    "question": "Which sentence places the adverb correctly?",
+    "options": [
+      "He always is late.",
+      "He is always late.",
+      "Always he is late.",
+      "He late is always."
+    ],
+    "correct_answer": "He is always late.",
+    "explanation": "Adverbs of frequency like 'always' typically appear after the verb 'to be' but before other main verbs."
+  },
+  {
+    "id": 52,
+    "topic": "Adverbs",
+    "category": "Foundation",
+    "difficulty": "upper_intermediate",
+    "question": "Identify the correctly formed sentence using a conjunctive adverb.",
+    "options": [
+      "I was tired; however, I finished the work.",
+      "I was tired, however I finished the work.",
+      "I was tired however, I finished the work.",
+      "I was tired; however I finished, the work."
+    ],
+    "correct_answer": "I was tired; however, I finished the work.",
+    "explanation": "Conjunctive adverbs like 'however' connecting two independent clauses need a semicolon before and a comma after."
+  },
+  {
+    "id": 53,
+    "topic": "Adverbs",
+    "category": "Foundation",
+    "difficulty": "advanced",
+    "question": "Choose the sentence with the correctly positioned focusing adverb.",
+    "options": [
+      "Only she understood the lecture.",
+      "She only understood the lecture.",
+      "She understood only the lecture.",
+      "All of these can carry different meanings depending on intended focus."
+    ],
+    "correct_answer": "All of these can carry different meanings depending on intended focus.",
+    "explanation": "Focusing adverbs like 'only' change meaning depending on placement, so precise position depends on what should be emphasized."
+  },
+  {
+    "id": 54,
+    "topic": "Articles",
+    "category": "Foundation",
+    "difficulty": "beginner",
+    "question": "Choose the correct article: 'I saw ___ elephant at the zoo.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_answer": "an",
+    "explanation": "'An' is used before words that begin with a vowel sound, and 'elephant' starts with a vowel sound."
+  },
+  {
+    "id": 55,
+    "topic": "Articles",
+    "category": "Foundation",
+    "difficulty": "beginner",
+    "question": "Choose the correct article: 'She is ___ honest person.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_answer": "an",
+    "explanation": "'Honest' begins with a silent 'h', so it starts with a vowel sound, requiring 'an'."
+  },
+  {
+    "id": 56,
+    "topic": "Articles",
+    "category": "Foundation",
+    "difficulty": "elementary",
+    "question": "Select the correct article: '___ sun rises in the east.'",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "correct_answer": "The",
+    "explanation": "'The' is used before unique nouns like 'sun', of which there is only one in our context."
+  },
+  {
+    "id": 57,
+    "topic": "Articles",
+    "category": "Foundation",
+    "difficulty": "elementary",
+    "question": "Choose the correct sentence about general/uncountable nouns.",
+    "options": [
+      "The milk is good for health.",
+      "Milk is good for health.",
+      "A milk is good for health.",
+      "An milk is good for health."
+    ],
+    "correct_answer": "Milk is good for health.",
+    "explanation": "No article is generally used when speaking about something in a general, uncountable sense."
+  },
+  {
+    "id": 58,
+    "topic": "Articles",
+    "category": "Foundation",
+    "difficulty": "intermediate",
+    "question": "Choose the correct sentence: 'He plays ___ guitar every evening.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article needed, but 'the' is idiomatic here"
+    ],
+    "correct_answer": "the",
+    "explanation": "'The' is conventionally used before musical instruments when talking about playing them: 'play the guitar'."
+  },
+  {
+    "id": 59,
+    "topic": "Articles",
+    "category": "Foundation",
+    "difficulty": "intermediate",
+    "question": "Which sentence uses zero article correctly?",
+    "options": [
+      "I go to the school every day.",
+      "I go to school every day.",
+      "I go to a school every day.",
+      "I go to an school every day."
+    ],
+    "correct_answer": "I go to school every day.",
+    "explanation": "When referring to the general purpose of an institution (studying), no article is used: 'go to school'."
+  },
+  {
+    "id": 60,
+    "topic": "Articles",
+    "category": "Foundation",
+    "difficulty": "upper_intermediate",
+    "question": "Choose the correct sentence about specific vs. general reference.",
+    "options": [
+      "The books are important for learning.",
+      "Books are important for learning.",
+      "A books are important for learning.",
+      "An books are important for learning."
+    ],
+    "correct_answer": "Books are important for learning.",
+    "explanation": "When making a general statement about all books (not specific ones), no article is used before the plural noun."
+  },
+  {
+    "id": 61,
+    "topic": "Articles",
+    "category": "Foundation",
+    "difficulty": "advanced",
+    "question": "Identify the correctly used article in a superlative context.",
+    "options": [
+      "She is a best student in class.",
+      "She is the best student in class.",
+      "She is best student in class.",
+      "She is an best student in class."
+    ],
+    "correct_answer": "She is the best student in class.",
+    "explanation": "Superlative adjectives like 'best' are almost always preceded by 'the'."
+  },
+  {
+    "id": 62,
+    "topic": "Prepositions",
+    "category": "Foundation",
+    "difficulty": "beginner",
+    "question": "Choose the correct preposition: 'The cat is ___ the table.'",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "for"
+    ],
+    "correct_answer": "on",
+    "explanation": "'On' shows the cat is positioned on top of a surface, which fits the meaning here."
+  },
+  {
+    "id": 63,
+    "topic": "Prepositions",
+    "category": "Foundation",
+    "difficulty": "beginner",
+    "question": "Select the correct preposition of time: 'I was born ___ 2004.'",
+    "options": [
+      "on",
+      "at",
+      "in",
+      "by"
+    ],
+    "correct_answer": "in",
+    "explanation": "'In' is used with years, months, and longer periods of time."
+  },
+  {
+    "id": 64,
+    "topic": "Prepositions",
+    "category": "Foundation",
+    "difficulty": "elementary",
+    "question": "Choose the correct preposition: 'She arrived ___ 9 o'clock.'",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct_answer": "at",
+    "explanation": "'At' is used with precise clock times, like '9 o'clock'."
+  },
+  {
+    "id": 65,
+    "topic": "Prepositions",
+    "category": "Foundation",
+    "difficulty": "elementary",
+    "question": "Select the correct preposition: 'We will meet ___ Monday.'",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct_answer": "on",
+    "explanation": "'On' is used with specific days of the week, such as 'Monday'."
+  },
+  {
+    "id": 66,
+    "topic": "Prepositions",
+    "category": "Foundation",
+    "difficulty": "intermediate",
+    "question": "Choose the correct preposition: 'She is good ___ mathematics.'",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "for"
+    ],
+    "correct_answer": "at",
+    "explanation": "The fixed expression 'good at' is used to describe skill in a subject or activity."
+  },
+  {
+    "id": 67,
+    "topic": "Prepositions",
+    "category": "Foundation",
+    "difficulty": "intermediate",
+    "question": "Select the correct preposition: 'He apologized ___ being late.'",
+    "options": [
+      "for",
+      "of",
+      "about",
+      "on"
+    ],
+    "correct_answer": "for",
+    "explanation": "'Apologize for' is the correct fixed preposition pairing when explaining the reason for an apology."
+  },
+  {
+    "id": 68,
+    "topic": "Prepositions",
+    "category": "Foundation",
+    "difficulty": "upper_intermediate",
+    "question": "Choose the correctly used preposition of movement: 'The plane flew ___ the clouds.'",
+    "options": [
+      "through",
+      "beside",
+      "under",
+      "at"
+    ],
+    "correct_answer": "through",
+    "explanation": "'Through' indicates movement within and out the other side of something, matching the plane passing the clouds."
+  },
+  {
+    "id": 69,
+    "topic": "Prepositions",
+    "category": "Foundation",
+    "difficulty": "advanced",
+    "question": "Identify the correctly used dependent preposition.",
+    "options": [
+      "She is married with a doctor.",
+      "She is married to a doctor.",
+      "She is married for a doctor.",
+      "She is married on a doctor."
+    ],
+    "correct_answer": "She is married to a doctor.",
+    "explanation": "'Married to' is the fixed, idiomatic preposition pairing used in English."
+  },
+  {
+    "id": 70,
+    "topic": "Conjunctions",
+    "category": "Foundation",
+    "difficulty": "beginner",
+    "question": "Choose the correct conjunction: 'I like tea ___ coffee.'",
+    "options": [
+      "but",
+      "and",
+      "or",
+      "so"
+    ],
+    "correct_answer": "and",
+    "explanation": "'And' is used to join two similar items, here two beverages the speaker likes."
+  },
+  {
+    "id": 71,
+    "topic": "Conjunctions",
+    "category": "Foundation",
+    "difficulty": "beginner",
+    "question": "Select the correct conjunction: 'She was tired, ___ she kept working.'",
+    "options": [
+      "so",
+      "but",
+      "and",
+      "because"
+    ],
+    "correct_answer": "but",
+    "explanation": "'But' shows contrast between being tired and continuing to work."
+  },
+  {
+    "id": 72,
+    "topic": "Conjunctions",
+    "category": "Foundation",
+    "difficulty": "elementary",
+    "question": "Choose the correct conjunction: 'He studied hard ___ he could pass the exam.'",
+    "options": [
+      "so that",
+      "but",
+      "or",
+      "yet"
+    ],
+    "correct_answer": "so that",
+    "explanation": "'So that' introduces a purpose clause, explaining why he studied hard."
+  },
+  {
+    "id": 73,
+    "topic": "Conjunctions",
+    "category": "Foundation",
+    "difficulty": "elementary",
+    "question": "Select the correct conjunction: 'You can have tea ___ coffee, not both.'",
+    "options": [
+      "and",
+      "or",
+      "so",
+      "but"
+    ],
+    "correct_answer": "or",
+    "explanation": "'Or' presents a choice between two alternatives."
+  },
+  {
+    "id": 74,
+    "topic": "Conjunctions",
+    "category": "Foundation",
+    "difficulty": "intermediate",
+    "question": "Choose the correctly used correlative conjunction.",
+    "options": [
+      "Either you or I are wrong.",
+      "Either you or I am wrong.",
+      "Either you or I is wrong.",
+      "Either you or I be wrong."
+    ],
+    "correct_answer": "Either you or I am wrong.",
+    "explanation": "With 'either...or', the verb agrees with the subject closest to it \u2014 here 'I am'."
+  },
+  {
+    "id": 75,
+    "topic": "Conjunctions",
+    "category": "Foundation",
+    "difficulty": "intermediate",
+    "question": "Select the correct subordinating conjunction: '___ it was raining, we went for a walk.'",
+    "options": [
+      "Because",
+      "Although",
+      "So",
+      "And"
+    ],
+    "correct_answer": "Although",
+    "explanation": "'Although' shows contrast between the rain and the decision to still go for a walk."
+  },
+  {
+    "id": 76,
+    "topic": "Conjunctions",
+    "category": "Foundation",
+    "difficulty": "upper_intermediate",
+    "question": "Choose the sentence with correctly balanced correlative conjunctions.",
+    "options": [
+      "She not only sings but also dances.",
+      "She not only sings but dances also.",
+      "She only not sings but also dances.",
+      "She not only sings also but dances."
+    ],
+    "correct_answer": "She not only sings but also dances.",
+    "explanation": "'Not only...but also' must be followed by grammatically parallel structures for correctness."
+  },
+  {
+    "id": 77,
+    "topic": "Conjunctions",
+    "category": "Foundation",
+    "difficulty": "advanced",
+    "question": "Identify the correctly punctuated sentence with a coordinating conjunction.",
+    "options": [
+      "I wanted to go, but I was too tired.",
+      "I wanted to go but, I was too tired.",
+      "I wanted to go, but, I was too tired.",
+      "I wanted to go but I was too tired therefore."
+    ],
+    "correct_answer": "I wanted to go, but I was too tired.",
+    "explanation": "A comma is placed before a coordinating conjunction (but) when it joins two independent clauses."
+  },
+  {
+    "id": 78,
+    "topic": "Simple Present",
+    "category": "Tenses",
+    "difficulty": "beginner",
+    "question": "She ___ to the gym every morning.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "gone"
+    ],
+    "correct_answer": "goes",
+    "explanation": "Third-person singular subjects add -s/-es in the simple present tense."
+  },
+  {
+    "id": 79,
+    "topic": "Simple Present",
+    "category": "Tenses",
+    "difficulty": "beginner",
+    "question": "Water ___ at 100 degrees Celsius.",
+    "options": [
+      "boil",
+      "boils",
+      "boiling",
+      "boiled"
+    ],
+    "correct_answer": "boils",
+    "explanation": "The simple present is used for scientific facts; 'boils' agrees with the singular subject 'water'."
+  },
+  {
+    "id": 80,
+    "topic": "Simple Present",
+    "category": "Tenses",
+    "difficulty": "elementary",
+    "question": "They ___ football every Sunday.",
+    "options": [
+      "plays",
+      "play",
+      "playing",
+      "played"
+    ],
+    "correct_answer": "play",
+    "explanation": "Plural subjects like 'they' use the base form of the verb in the simple present."
+  },
+  {
+    "id": 81,
+    "topic": "Simple Present",
+    "category": "Tenses",
+    "difficulty": "elementary",
+    "question": "He ___ not like spicy food.",
+    "options": [
+      "do",
+      "does",
+      "doing",
+      "did"
+    ],
+    "correct_answer": "does",
+    "explanation": "The auxiliary 'does' is used with third-person singular subjects in negative simple present sentences."
+  },
+  {
+    "id": 82,
+    "topic": "Simple Present",
+    "category": "Tenses",
+    "difficulty": "intermediate",
+    "question": "___ she work in this office?",
+    "options": [
+      "Do",
+      "Does",
+      "Is",
+      "Are"
+    ],
+    "correct_answer": "Does",
+    "explanation": "Questions in the simple present with third-person singular subjects use 'Does' as the auxiliary."
+  },
+  {
+    "id": 83,
+    "topic": "Simple Present",
+    "category": "Tenses",
+    "difficulty": "intermediate",
+    "question": "My father ___ the newspaper every day.",
+    "options": [
+      "read",
+      "reads",
+      "reading",
+      "readed"
+    ],
+    "correct_answer": "reads",
+    "explanation": "'Reads' agrees with the singular subject 'father' in the simple present tense."
+  },
+  {
+    "id": 84,
+    "topic": "Simple Present",
+    "category": "Tenses",
+    "difficulty": "upper_intermediate",
+    "question": "The train usually ___ on time.",
+    "options": [
+      "arrive",
+      "arrives",
+      "arriving",
+      "arrived"
+    ],
+    "correct_answer": "arrives",
+    "explanation": "Habitual actions, like a train's usual schedule, are expressed using the simple present."
+  },
+  {
+    "id": 85,
+    "topic": "Simple Present",
+    "category": "Tenses",
+    "difficulty": "advanced",
+    "question": "I ___ believe in giving up easily.",
+    "options": [
+      "don't",
+      "doesn't",
+      "am not",
+      "isn't"
+    ],
+    "correct_answer": "don't",
+    "explanation": "With 'I', negative simple present sentences use the auxiliary 'do not' (don't)."
+  },
+  {
+    "id": 86,
+    "topic": "Simple Present",
+    "category": "Tenses",
+    "difficulty": "beginner",
+    "question": "Cats ___ generally independent animals.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "were"
+    ],
+    "correct_answer": "are",
+    "explanation": "'Cats' is plural, so it takes the plural present tense form of 'to be': 'are'."
+  },
+  {
+    "id": 87,
+    "topic": "Simple Present",
+    "category": "Tenses",
+    "difficulty": "elementary",
+    "question": "He always ___ his homework before dinner.",
+    "options": [
+      "finish",
+      "finishes",
+      "finishing",
+      "finished"
+    ],
+    "correct_answer": "finishes",
+    "explanation": "'Finishes' agrees with the third-person singular subject 'he' in the simple present."
+  },
+  {
+    "id": 88,
+    "topic": "Present Continuous",
+    "category": "Tenses",
+    "difficulty": "beginner",
+    "question": "She ___ dinner right now.",
+    "options": [
+      "cook",
+      "cooks",
+      "is cooking",
+      "cooked"
+    ],
+    "correct_answer": "is cooking",
+    "explanation": "The present continuous (is/am/are + verb-ing) describes an action happening at this moment."
+  },
+  {
+    "id": 89,
+    "topic": "Present Continuous",
+    "category": "Tenses",
+    "difficulty": "beginner",
+    "question": "They ___ studying for their exams this week.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "be"
+    ],
+    "correct_answer": "are",
+    "explanation": "'They' is plural, so the auxiliary 'are' is used to form the present continuous."
+  },
+  {
+    "id": 90,
+    "topic": "Present Continuous",
+    "category": "Tenses",
+    "difficulty": "elementary",
+    "question": "Look! The baby ___.",
+    "options": [
+      "sleeps",
+      "is sleeping",
+      "sleep",
+      "slept"
+    ],
+    "correct_answer": "is sleeping",
+    "explanation": "'Look!' signals an action happening right now, requiring the present continuous."
+  },
+  {
+    "id": 91,
+    "topic": "Present Continuous",
+    "category": "Tenses",
+    "difficulty": "intermediate",
+    "question": "I ___ meeting my friend tomorrow evening.",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "correct_answer": "am",
+    "explanation": "The present continuous can express planned future arrangements, here with 'I am'."
+  },
+  {
+    "id": 92,
+    "topic": "Present Continuous",
+    "category": "Tenses",
+    "difficulty": "intermediate",
+    "question": "He ___ not listening to the lecture at the moment.",
+    "options": [
+      "is",
+      "are",
+      "am",
+      "do"
+    ],
+    "correct_answer": "is",
+    "explanation": "'He' is singular, so the negative present continuous uses 'is not' before the verb-ing form."
+  },
+  {
+    "id": 93,
+    "topic": "Present Continuous",
+    "category": "Tenses",
+    "difficulty": "upper_intermediate",
+    "question": "Why ___ you crying right now?",
+    "options": [
+      "is",
+      "are",
+      "am",
+      "do"
+    ],
+    "correct_answer": "are",
+    "explanation": "Questions in the present continuous with 'you' use the auxiliary 'are'."
+  },
+  {
+    "id": 94,
+    "topic": "Present Continuous",
+    "category": "Tenses",
+    "difficulty": "advanced",
+    "question": "The company ___ currently expanding into new markets.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "were"
+    ],
+    "correct_answer": "is",
+    "explanation": "'Company' is a singular collective noun, so it takes 'is' in the present continuous."
+  },
+  {
+    "id": 95,
+    "topic": "Present Continuous",
+    "category": "Tenses",
+    "difficulty": "beginner",
+    "question": "We ___ working on a new project this month.",
+    "options": [
+      "is",
+      "am",
+      "are",
+      "be"
+    ],
+    "correct_answer": "are",
+    "explanation": "'We' is a plural subject, requiring 'are' in the present continuous tense."
+  },
+  {
+    "id": 96,
+    "topic": "Present Perfect",
+    "category": "Tenses",
+    "difficulty": "beginner",
+    "question": "She ___ already finished her assignment.",
+    "options": [
+      "have",
+      "has",
+      "had",
+      "is"
+    ],
+    "correct_answer": "has",
+    "explanation": "The present perfect uses 'has' with third-person singular subjects, followed by the past participle."
+  },
+  {
+    "id": 97,
+    "topic": "Present Perfect",
+    "category": "Tenses",
+    "difficulty": "elementary",
+    "question": "I ___ never been to Paris.",
+    "options": [
+      "have",
+      "has",
+      "had",
+      "am"
+    ],
+    "correct_answer": "have",
+    "explanation": "With 'I', the present perfect uses 'have' + past participle."
+  },
+  {
+    "id": 98,
+    "topic": "Present Perfect",
+    "category": "Tenses",
+    "difficulty": "elementary",
+    "question": "They ___ lived here for ten years.",
+    "options": [
+      "has",
+      "have",
+      "had",
+      "having"
+    ],
+    "correct_answer": "have",
+    "explanation": "'They' is plural, so the present perfect auxiliary is 'have'."
+  },
+  {
+    "id": 99,
+    "topic": "Present Perfect",
+    "category": "Tenses",
+    "difficulty": "intermediate",
+    "question": "___ you ever eaten sushi?",
+    "options": [
+      "Have",
+      "Has",
+      "Did",
+      "Do"
+    ],
+    "correct_answer": "Have",
+    "explanation": "Questions about life experience up to now, with 'you', use 'Have' in the present perfect."
+  },
+  {
+    "id": 100,
+    "topic": "Present Perfect",
+    "category": "Tenses",
+    "difficulty": "intermediate",
+    "question": "He ___ just completed his internship.",
+    "options": [
+      "have",
+      "has",
+      "had",
+      "is"
+    ],
+    "correct_answer": "has",
+    "explanation": "'He' is singular, so 'has' + past participle correctly forms the present perfect."
+  },
+  {
+    "id": 101,
+    "topic": "Present Perfect",
+    "category": "Tenses",
+    "difficulty": "upper_intermediate",
+    "question": "We ___ not seen that movie yet.",
+    "options": [
+      "have",
+      "has",
+      "had",
+      "did"
+    ],
+    "correct_answer": "have",
+    "explanation": "'We' is plural, so the negative present perfect uses 'have not' (haven't)."
+  },
+  {
+    "id": 102,
+    "topic": "Present Perfect",
+    "category": "Tenses",
+    "difficulty": "advanced",
+    "question": "This is the best book I ___ ever read.",
+    "options": [
+      "have",
+      "has",
+      "had",
+      "am"
+    ],
+    "correct_answer": "have",
+    "explanation": "The present perfect with 'ever' emphasizes an experience up to the present moment, here using 'have'."
+  },
+  {
+    "id": 103,
+    "topic": "Present Perfect Continuous",
+    "category": "Tenses",
+    "difficulty": "elementary",
+    "question": "She ___ studying since morning.",
+    "options": [
+      "has been",
+      "have been",
+      "is",
+      "was"
+    ],
+    "correct_answer": "has been",
+    "explanation": "The present perfect continuous (has/have been + verb-ing) shows an action continuing from the past to now."
+  },
+  {
+    "id": 104,
+    "topic": "Present Perfect Continuous",
+    "category": "Tenses",
+    "difficulty": "intermediate",
+    "question": "They ___ working on this project for three months.",
+    "options": [
+      "has been",
+      "have been",
+      "is",
+      "are"
+    ],
+    "correct_answer": "have been",
+    "explanation": "'They' is plural, so 'have been' + verb-ing correctly forms the present perfect continuous."
+  },
+  {
+    "id": 105,
+    "topic": "Present Perfect Continuous",
+    "category": "Tenses",
+    "difficulty": "intermediate",
+    "question": "I ___ waiting for the bus for twenty minutes.",
+    "options": [
+      "has been",
+      "have been",
+      "am",
+      "was"
+    ],
+    "correct_answer": "have been",
+    "explanation": "With 'I', the present perfect continuous uses 'have been' + verb-ing to show a continuing action."
+  },
+  {
+    "id": 106,
+    "topic": "Present Perfect Continuous",
+    "category": "Tenses",
+    "difficulty": "upper_intermediate",
+    "question": "How long ___ you been learning English?",
+    "options": [
+      "have",
+      "has",
+      "are",
+      "did"
+    ],
+    "correct_answer": "have",
+    "explanation": "Questions about duration with 'you' use 'have' in the present perfect continuous."
+  },
+  {
+    "id": 107,
+    "topic": "Present Perfect Continuous",
+    "category": "Tenses",
+    "difficulty": "advanced",
+    "question": "It ___ raining since last night.",
+    "options": [
+      "has been",
+      "have been",
+      "is",
+      "was"
+    ],
+    "correct_answer": "has been",
+    "explanation": "'It' is singular, so 'has been' + verb-ing is the correct present perfect continuous form."
+  },
+  {
+    "id": 108,
+    "topic": "Simple Past",
+    "category": "Tenses",
+    "difficulty": "beginner",
+    "question": "She ___ to the market yesterday.",
+    "options": [
+      "go",
+      "goes",
+      "went",
+      "going"
+    ],
+    "correct_answer": "went",
+    "explanation": "'Went' is the irregular simple past form of 'go', used for a completed action in the past."
+  },
+  {
+    "id": 109,
+    "topic": "Simple Past",
+    "category": "Tenses",
+    "difficulty": "beginner",
+    "question": "They ___ their homework before dinner last night.",
+    "options": [
+      "finish",
+      "finished",
+      "finishes",
+      "finishing"
+    ],
+    "correct_answer": "finished",
+    "explanation": "Regular verbs form the simple past by adding -ed: 'finished'."
+  },
+  {
+    "id": 110,
+    "topic": "Simple Past",
+    "category": "Tenses",
+    "difficulty": "elementary",
+    "question": "He ___ not attend the meeting last week.",
+    "options": [
+      "do",
+      "did",
+      "does",
+      "done"
+    ],
+    "correct_answer": "did",
+    "explanation": "Negative simple past sentences use 'did not' (didn't) with the base form of the verb."
+  },
+  {
+    "id": 111,
+    "topic": "Simple Past",
+    "category": "Tenses",
+    "difficulty": "intermediate",
+    "question": "___ you watch the match last night?",
+    "options": [
+      "Do",
+      "Did",
+      "Does",
+      "Have"
+    ],
+    "correct_answer": "Did",
+    "explanation": "Questions in the simple past use the auxiliary 'did', regardless of subject."
+  },
+  {
+    "id": 112,
+    "topic": "Simple Past",
+    "category": "Tenses",
+    "difficulty": "intermediate",
+    "question": "I ___ my keys somewhere in the house.",
+    "options": [
+      "lose",
+      "lost",
+      "losed",
+      "losing"
+    ],
+    "correct_answer": "lost",
+    "explanation": "'Lost' is the irregular simple past form of 'lose'."
+  },
+  {
+    "id": 113,
+    "topic": "Simple Past",
+    "category": "Tenses",
+    "difficulty": "upper_intermediate",
+    "question": "We ___ a wonderful time at the beach last summer.",
+    "options": [
+      "have",
+      "had",
+      "has",
+      "having"
+    ],
+    "correct_answer": "had",
+    "explanation": "'Had' is the simple past form of 'have', used here to describe a completed past experience."
+  },
+  {
+    "id": 114,
+    "topic": "Past Continuous",
+    "category": "Tenses",
+    "difficulty": "elementary",
+    "question": "She ___ cooking when the phone rang.",
+    "options": [
+      "is",
+      "was",
+      "were",
+      "has been"
+    ],
+    "correct_answer": "was",
+    "explanation": "The past continuous (was/were + verb-ing) describes an action in progress when another event happened."
+  },
+  {
+    "id": 115,
+    "topic": "Past Continuous",
+    "category": "Tenses",
+    "difficulty": "intermediate",
+    "question": "They ___ playing cricket when it started to rain.",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "are"
+    ],
+    "correct_answer": "were",
+    "explanation": "'They' is plural, so the past continuous uses 'were' + verb-ing."
+  },
+  {
+    "id": 116,
+    "topic": "Past Continuous",
+    "category": "Tenses",
+    "difficulty": "intermediate",
+    "question": "While I ___ studying, my brother was watching TV.",
+    "options": [
+      "was",
+      "were",
+      "am",
+      "is"
+    ],
+    "correct_answer": "was",
+    "explanation": "'I' takes 'was' in the past continuous tense to describe an ongoing past action."
+  },
+  {
+    "id": 117,
+    "topic": "Past Continuous",
+    "category": "Tenses",
+    "difficulty": "upper_intermediate",
+    "question": "What ___ you doing at 9 pm last night?",
+    "options": [
+      "was",
+      "were",
+      "did",
+      "do"
+    ],
+    "correct_answer": "were",
+    "explanation": "Questions in the past continuous with 'you' use 'were' + verb-ing."
+  },
+  {
+    "id": 118,
+    "topic": "Past Perfect",
+    "category": "Tenses",
+    "difficulty": "intermediate",
+    "question": "By the time we arrived, the movie ___ already started.",
+    "options": [
+      "has",
+      "had",
+      "have",
+      "was"
+    ],
+    "correct_answer": "had",
+    "explanation": "The past perfect (had + past participle) shows an action completed before another past action."
+  },
+  {
+    "id": 119,
+    "topic": "Past Perfect",
+    "category": "Tenses",
+    "difficulty": "intermediate",
+    "question": "She ___ finished her work before he called.",
+    "options": [
+      "has",
+      "had",
+      "have",
+      "was"
+    ],
+    "correct_answer": "had",
+    "explanation": "'Had finished' shows the action was completed before another past event (the call)."
+  },
+  {
+    "id": 120,
+    "topic": "Past Perfect",
+    "category": "Tenses",
+    "difficulty": "upper_intermediate",
+    "question": "I realized I ___ forgotten my wallet at home.",
+    "options": [
+      "have",
+      "had",
+      "has",
+      "was"
+    ],
+    "correct_answer": "had",
+    "explanation": "The past perfect is used here to show forgetting happened before the moment of realization."
+  },
+  {
+    "id": 121,
+    "topic": "Past Perfect",
+    "category": "Tenses",
+    "difficulty": "advanced",
+    "question": "They ___ never seen snow before that trip.",
+    "options": [
+      "have",
+      "had",
+      "has",
+      "having"
+    ],
+    "correct_answer": "had",
+    "explanation": "The past perfect shows a state true before a specific past point (the trip)."
+  },
+  {
+    "id": 122,
+    "topic": "Past Perfect Continuous",
+    "category": "Tenses",
+    "difficulty": "intermediate",
+    "question": "She was tired because she ___ working all day.",
+    "options": [
+      "had been",
+      "has been",
+      "was",
+      "is"
+    ],
+    "correct_answer": "had been",
+    "explanation": "The past perfect continuous (had been + verb-ing) shows a continuous action leading up to a past moment."
+  },
+  {
+    "id": 123,
+    "topic": "Past Perfect Continuous",
+    "category": "Tenses",
+    "difficulty": "upper_intermediate",
+    "question": "They ___ studying for two hours before the teacher arrived.",
+    "options": [
+      "had been",
+      "has been",
+      "were",
+      "was"
+    ],
+    "correct_answer": "had been",
+    "explanation": "This shows an ongoing action before another past event, using the past perfect continuous."
+  },
+  {
+    "id": 124,
+    "topic": "Past Perfect Continuous",
+    "category": "Tenses",
+    "difficulty": "advanced",
+    "question": "I ___ waiting for an hour when the bus finally came.",
+    "options": [
+      "had been",
+      "have been",
+      "was",
+      "am"
+    ],
+    "correct_answer": "had been",
+    "explanation": "'Had been waiting' expresses a duration of action completed just before another past event."
+  },
+  {
+    "id": 125,
+    "topic": "Simple Future",
+    "category": "Tenses",
+    "difficulty": "beginner",
+    "question": "I ___ call you tomorrow.",
+    "options": [
+      "will",
+      "would",
+      "shall have",
+      "am"
+    ],
+    "correct_answer": "will",
+    "explanation": "'Will' + base verb is the standard way to express a simple future action or decision."
+  },
+  {
+    "id": 126,
+    "topic": "Simple Future",
+    "category": "Tenses",
+    "difficulty": "beginner",
+    "question": "She ___ visit her grandmother next week.",
+    "options": [
+      "will",
+      "is",
+      "was",
+      "has"
+    ],
+    "correct_answer": "will",
+    "explanation": "'Will visit' expresses a future action, correctly formed with 'will' + base verb."
+  },
+  {
+    "id": 127,
+    "topic": "Simple Future",
+    "category": "Tenses",
+    "difficulty": "elementary",
+    "question": "They ___ not attend the party tomorrow.",
+    "options": [
+      "will",
+      "would",
+      "shall",
+      "do"
+    ],
+    "correct_answer": "will",
+    "explanation": "The negative simple future uses 'will not' (won't) + base verb."
+  },
+  {
+    "id": 128,
+    "topic": "Simple Future",
+    "category": "Tenses",
+    "difficulty": "intermediate",
+    "question": "___ you help me with this later?",
+    "options": [
+      "Will",
+      "Would",
+      "Do",
+      "Are"
+    ],
+    "correct_answer": "Will",
+    "explanation": "Simple future questions typically begin with 'Will' + subject + base verb."
+  },
+  {
+    "id": 129,
+    "topic": "Future Continuous",
+    "category": "Tenses",
+    "difficulty": "intermediate",
+    "question": "This time tomorrow, I ___ traveling to Delhi.",
+    "options": [
+      "will be",
+      "am",
+      "was",
+      "have been"
+    ],
+    "correct_answer": "will be",
+    "explanation": "The future continuous (will be + verb-ing) describes an action that will be in progress at a specific future time."
+  },
+  {
+    "id": 130,
+    "topic": "Future Continuous",
+    "category": "Tenses",
+    "difficulty": "upper_intermediate",
+    "question": "At 8 pm, we ___ having dinner.",
+    "options": [
+      "will be",
+      "are",
+      "were",
+      "have"
+    ],
+    "correct_answer": "will be",
+    "explanation": "'Will be having' shows an ongoing action expected at a specific point in the future."
+  },
+  {
+    "id": 131,
+    "topic": "Future Perfect",
+    "category": "Tenses",
+    "difficulty": "upper_intermediate",
+    "question": "By next year, she ___ graduated from college.",
+    "options": [
+      "will have",
+      "will",
+      "has",
+      "had"
+    ],
+    "correct_answer": "will have",
+    "explanation": "The future perfect (will have + past participle) shows an action that will be completed before a future point."
+  },
+  {
+    "id": 132,
+    "topic": "Future Perfect",
+    "category": "Tenses",
+    "difficulty": "advanced",
+    "question": "By the time you arrive, I ___ finished cooking.",
+    "options": [
+      "will have",
+      "will",
+      "have",
+      "had"
+    ],
+    "correct_answer": "will have",
+    "explanation": "This describes an action that will be complete before another future event (your arrival)."
+  },
+  {
+    "id": 133,
+    "topic": "Future Perfect Continuous",
+    "category": "Tenses",
+    "difficulty": "advanced",
+    "question": "By next month, I ___ working here for five years.",
+    "options": [
+      "will have been",
+      "will be",
+      "have been",
+      "was"
+    ],
+    "correct_answer": "will have been",
+    "explanation": "The future perfect continuous (will have been + verb-ing) shows the duration of an action up to a future point."
+  },
+  {
+    "id": 134,
+    "topic": "Subject-Verb Agreement",
+    "category": "Other Grammar",
+    "difficulty": "beginner",
+    "question": "He ___ to college every day.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "gone"
+    ],
+    "correct_answer": "goes",
+    "explanation": "With he/she/it in the simple present, the main verb takes -s/-es."
+  },
+  {
+    "id": 135,
+    "topic": "Subject-Verb Agreement",
+    "category": "Other Grammar",
+    "difficulty": "beginner",
+    "question": "The boys ___ playing in the yard.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "be"
+    ],
+    "correct_answer": "are",
+    "explanation": "'Boys' is plural, so the plural verb 'are' is required."
+  },
+  {
+    "id": 136,
+    "topic": "Subject-Verb Agreement",
+    "category": "Other Grammar",
+    "difficulty": "elementary",
+    "question": "Neither of the answers ___ correct.",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have"
+    ],
+    "correct_answer": "is",
+    "explanation": "'Neither' is treated as singular, so it takes a singular verb."
+  },
+  {
+    "id": 137,
+    "topic": "Subject-Verb Agreement",
+    "category": "Other Grammar",
+    "difficulty": "elementary",
+    "question": "The list of items ___ on the table.",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have"
+    ],
+    "correct_answer": "is",
+    "explanation": "The subject is 'the list' (singular), not 'items', so the singular verb 'is' is correct."
+  },
+  {
+    "id": 138,
+    "topic": "Subject-Verb Agreement",
+    "category": "Other Grammar",
+    "difficulty": "intermediate",
+    "question": "Each of the students ___ a laptop.",
+    "options": [
+      "have",
+      "has",
+      "having",
+      "had"
+    ],
+    "correct_answer": "has",
+    "explanation": "'Each' is singular and takes a singular verb, regardless of the plural noun that follows."
+  },
+  {
+    "id": 139,
+    "topic": "Subject-Verb Agreement",
+    "category": "Other Grammar",
+    "difficulty": "intermediate",
+    "question": "The news ___ surprising.",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have"
+    ],
+    "correct_answer": "is",
+    "explanation": "'News' looks plural but is grammatically singular in English."
+  },
+  {
+    "id": 140,
+    "topic": "Subject-Verb Agreement",
+    "category": "Other Grammar",
+    "difficulty": "upper_intermediate",
+    "question": "Either the manager or the employees ___ responsible.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "has"
+    ],
+    "correct_answer": "are",
+    "explanation": "When subjects are joined by 'or', the verb agrees with the subject closest to it \u2014 'employees' (plural)."
+  },
+  {
+    "id": 141,
+    "topic": "Subject-Verb Agreement",
+    "category": "Other Grammar",
+    "difficulty": "advanced",
+    "question": "The committee ___ divided on the issue.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "has"
+    ],
+    "correct_answer": "is",
+    "explanation": "'Committee' is a collective noun treated as singular when acting as one unit."
+  },
+  {
+    "id": 142,
+    "topic": "Subject-Verb Agreement",
+    "category": "Other Grammar",
+    "difficulty": "beginner",
+    "question": "My family ___ five members.",
+    "options": [
+      "have",
+      "has",
+      "having",
+      "had"
+    ],
+    "correct_answer": "has",
+    "explanation": "'Family' is singular here, referring to the unit as a whole, so it takes 'has'."
+  },
+  {
+    "id": 143,
+    "topic": "Subject-Verb Agreement",
+    "category": "Other Grammar",
+    "difficulty": "elementary",
+    "question": "Mathematics ___ my favorite subject.",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have"
+    ],
+    "correct_answer": "is",
+    "explanation": "Subjects like 'mathematics' ending in -s are treated as singular."
+  },
+  {
+    "id": 144,
+    "topic": "Helping Verbs",
+    "category": "Other Grammar",
+    "difficulty": "beginner",
+    "question": "She ___ finished her project.",
+    "options": [
+      "has",
+      "have",
+      "is",
+      "was"
+    ],
+    "correct_answer": "has",
+    "explanation": "The helping verb 'has' pairs with a singular subject to form the present perfect."
+  },
+  {
+    "id": 145,
+    "topic": "Helping Verbs",
+    "category": "Other Grammar",
+    "difficulty": "elementary",
+    "question": "They ___ going to the concert tonight.",
+    "options": [
+      "is",
+      "are",
+      "has",
+      "have"
+    ],
+    "correct_answer": "are",
+    "explanation": "'Are' is the correct helping verb with the plural subject 'they' in the present continuous."
+  },
+  {
+    "id": 146,
+    "topic": "Helping Verbs",
+    "category": "Other Grammar",
+    "difficulty": "intermediate",
+    "question": "I ___ not seen him since Monday.",
+    "options": [
+      "have",
+      "has",
+      "am",
+      "was"
+    ],
+    "correct_answer": "have",
+    "explanation": "'Have' is used with 'I' to form negative present perfect sentences."
+  },
+  {
+    "id": 147,
+    "topic": "Helping Verbs",
+    "category": "Other Grammar",
+    "difficulty": "intermediate",
+    "question": "She ___ been working here since 2020.",
+    "options": [
+      "has",
+      "have",
+      "is",
+      "was"
+    ],
+    "correct_answer": "has",
+    "explanation": "'Has been' correctly forms the present perfect continuous with a singular subject."
+  },
+  {
+    "id": 148,
+    "topic": "Modal Verbs",
+    "category": "Other Grammar",
+    "difficulty": "beginner",
+    "question": "You ___ wear a seatbelt while driving.",
+    "options": [
+      "must",
+      "might",
+      "would",
+      "could"
+    ],
+    "correct_answer": "must",
+    "explanation": "'Must' expresses strong obligation or necessity."
+  },
+  {
+    "id": 149,
+    "topic": "Modal Verbs",
+    "category": "Other Grammar",
+    "difficulty": "elementary",
+    "question": "___ I open the window, please?",
+    "options": [
+      "May",
+      "Must",
+      "Shall",
+      "Will"
+    ],
+    "correct_answer": "May",
+    "explanation": "'May' is a polite way to ask for permission."
+  },
+  {
+    "id": 150,
+    "topic": "Modal Verbs",
+    "category": "Other Grammar",
+    "difficulty": "intermediate",
+    "question": "It ___ rain later, so bring an umbrella.",
+    "options": [
+      "might",
+      "must",
+      "shall",
+      "need"
+    ],
+    "correct_answer": "might",
+    "explanation": "'Might' expresses a possibility, not a certainty."
+  },
+  {
+    "id": 151,
+    "topic": "Modal Verbs",
+    "category": "Other Grammar",
+    "difficulty": "intermediate",
+    "question": "You ___ not smoke in this building.",
+    "options": [
+      "must",
+      "can",
+      "could",
+      "would"
+    ],
+    "correct_answer": "must",
+    "explanation": "'Must not' expresses a prohibition or rule."
+  },
+  {
+    "id": 152,
+    "topic": "Modal Verbs",
+    "category": "Other Grammar",
+    "difficulty": "upper_intermediate",
+    "question": "She ___ speak three languages fluently.",
+    "options": [
+      "can",
+      "must",
+      "shall",
+      "would"
+    ],
+    "correct_answer": "can",
+    "explanation": "'Can' expresses ability."
+  },
+  {
+    "id": 153,
+    "topic": "Modal Verbs",
+    "category": "Other Grammar",
+    "difficulty": "advanced",
+    "question": "If I had studied harder, I ___ have passed.",
+    "options": [
+      "would",
+      "will",
+      "shall",
+      "must"
+    ],
+    "correct_answer": "would",
+    "explanation": "'Would have' is used in the third conditional to express a hypothetical past result."
+  },
+  {
+    "id": 154,
+    "topic": "Question Formation",
+    "category": "Other Grammar",
+    "difficulty": "beginner",
+    "question": "___ is your name?",
+    "options": [
+      "What",
+      "Who",
+      "Where",
+      "When"
+    ],
+    "correct_answer": "What",
+    "explanation": "'What' is used to ask about things or information, such as a name."
+  },
+  {
+    "id": 155,
+    "topic": "Question Formation",
+    "category": "Other Grammar",
+    "difficulty": "elementary",
+    "question": "___ does she live?",
+    "options": [
+      "What",
+      "Who",
+      "Where",
+      "Why"
+    ],
+    "correct_answer": "Where",
+    "explanation": "'Where' asks about a location."
+  },
+  {
+    "id": 156,
+    "topic": "Question Formation",
+    "category": "Other Grammar",
+    "difficulty": "intermediate",
+    "question": "___ did you arrive late?",
+    "options": [
+      "What",
+      "Who",
+      "Where",
+      "Why"
+    ],
+    "correct_answer": "Why",
+    "explanation": "'Why' asks for a reason."
+  },
+  {
+    "id": 157,
+    "topic": "Question Formation",
+    "category": "Other Grammar",
+    "difficulty": "intermediate",
+    "question": "Choose the correctly formed question.",
+    "options": [
+      "You are coming tomorrow?",
+      "Are you coming tomorrow?",
+      "Coming you are tomorrow?",
+      "Tomorrow you are coming?"
+    ],
+    "correct_answer": "Are you coming tomorrow?",
+    "explanation": "Yes/No questions invert the subject and auxiliary verb: 'Are you...?'"
+  },
+  {
+    "id": 158,
+    "topic": "Negative Sentences",
+    "category": "Other Grammar",
+    "difficulty": "beginner",
+    "question": "She ___ like coffee.",
+    "options": [
+      "don't",
+      "doesn't",
+      "isn't",
+      "not"
+    ],
+    "correct_answer": "doesn't",
+    "explanation": "Negative simple present sentences with third-person singular subjects use 'doesn't'."
+  },
+  {
+    "id": 159,
+    "topic": "Negative Sentences",
+    "category": "Other Grammar",
+    "difficulty": "elementary",
+    "question": "I ___ going to the party tonight.",
+    "options": [
+      "don't",
+      "doesn't",
+      "am not",
+      "isn't"
+    ],
+    "correct_answer": "am not",
+    "explanation": "The negative present continuous with 'I' uses 'am not' + verb-ing."
+  },
+  {
+    "id": 160,
+    "topic": "Negative Sentences",
+    "category": "Other Grammar",
+    "difficulty": "intermediate",
+    "question": "They ___ finished the project yet.",
+    "options": [
+      "haven't",
+      "hasn't",
+      "didn't",
+      "don't"
+    ],
+    "correct_answer": "haven't",
+    "explanation": "'They' is plural, so the negative present perfect uses 'haven't'."
+  },
+  {
+    "id": 161,
+    "topic": "Active Voice",
+    "category": "Other Grammar",
+    "difficulty": "beginner",
+    "question": "Choose the active voice sentence.",
+    "options": [
+      "The cake was baked by her.",
+      "She baked the cake.",
+      "The cake is baked.",
+      "The cake had been baked."
+    ],
+    "correct_answer": "She baked the cake.",
+    "explanation": "In active voice, the subject performs the action directly: 'She baked the cake.'"
+  },
+  {
+    "id": 162,
+    "topic": "Active Voice",
+    "category": "Other Grammar",
+    "difficulty": "elementary",
+    "question": "Identify the sentence written in active voice.",
+    "options": [
+      "The letter was written by Tom.",
+      "Tom wrote the letter.",
+      "The letter is being written.",
+      "The letter will be written."
+    ],
+    "correct_answer": "Tom wrote the letter.",
+    "explanation": "Active voice places the doer of the action ('Tom') as the subject of the sentence."
+  },
+  {
+    "id": 163,
+    "topic": "Passive Voice",
+    "category": "Other Grammar",
+    "difficulty": "elementary",
+    "question": "Convert to passive voice: 'The chef cooks the meal.'",
+    "options": [
+      "The meal cooks the chef.",
+      "The meal is cooked by the chef.",
+      "The meal was cooked chef.",
+      "The meal cooked by chef."
+    ],
+    "correct_answer": "The meal is cooked by the chef.",
+    "explanation": "Passive voice structure: object + is/am/are + past participle + by + subject."
+  },
+  {
+    "id": 164,
+    "topic": "Passive Voice",
+    "category": "Other Grammar",
+    "difficulty": "intermediate",
+    "question": "Choose the correctly formed passive sentence for: 'They built this house in 1990.'",
+    "options": [
+      "This house built in 1990.",
+      "This house was built in 1990.",
+      "This house is built in 1990.",
+      "This house has built in 1990."
+    ],
+    "correct_answer": "This house was built in 1990.",
+    "explanation": "Since the action happened in the past, the passive uses 'was/were' + past participle."
+  },
+  {
+    "id": 165,
+    "topic": "Passive Voice",
+    "category": "Other Grammar",
+    "difficulty": "upper_intermediate",
+    "question": "Identify the passive voice sentence.",
+    "options": [
+      "The manager approved the report.",
+      "The report was approved by the manager.",
+      "The manager is approving the report.",
+      "The manager will approve the report."
+    ],
+    "correct_answer": "The report was approved by the manager.",
+    "explanation": "The subject 'report' receives the action, which is the defining feature of passive voice."
+  },
+  {
+    "id": 166,
+    "topic": "Direct Speech",
+    "category": "Other Grammar",
+    "difficulty": "elementary",
+    "question": "Choose the correctly punctuated direct speech sentence.",
+    "options": [
+      "She said, \"I am tired.\"",
+      "She said \"I am tired\".",
+      "She said, I am tired.",
+      "She said \"I am tired.\""
+    ],
+    "correct_answer": "She said, \"I am tired.\"",
+    "explanation": "Direct speech requires a comma before the quotation and the quoted words enclosed in quotation marks."
+  },
+  {
+    "id": 167,
+    "topic": "Direct Speech",
+    "category": "Other Grammar",
+    "difficulty": "intermediate",
+    "question": "Identify the sentence written in direct speech.",
+    "options": [
+      "He told me he was busy.",
+      "He said, \"I am busy.\"",
+      "He said that he was busy.",
+      "He mentioned being busy."
+    ],
+    "correct_answer": "He said, \"I am busy.\"",
+    "explanation": "Direct speech repeats the speaker's exact words inside quotation marks."
+  },
+  {
+    "id": 168,
+    "topic": "Indirect Speech",
+    "category": "Other Grammar",
+    "difficulty": "intermediate",
+    "question": "Convert to indirect speech: He said, \"I am happy.\"",
+    "options": [
+      "He said that he is happy.",
+      "He said that he was happy.",
+      "He says that he was happy.",
+      "He said that I am happy."
+    ],
+    "correct_answer": "He said that he was happy.",
+    "explanation": "In reported speech, present tense ('am') generally shifts back to past tense ('was'), and pronouns change accordingly."
+  },
+  {
+    "id": 169,
+    "topic": "Indirect Speech",
+    "category": "Other Grammar",
+    "difficulty": "intermediate",
+    "question": "Convert to indirect speech: She said, \"I will call you.\"",
+    "options": [
+      "She said that she will call me.",
+      "She said that she would call me.",
+      "She said that she calls me.",
+      "She said that she is calling me."
+    ],
+    "correct_answer": "She said that she would call me.",
+    "explanation": "'Will' shifts to 'would' in reported speech, and pronouns adjust to fit the new speaker perspective."
+  },
+  {
+    "id": 170,
+    "topic": "Indirect Speech",
+    "category": "Other Grammar",
+    "difficulty": "upper_intermediate",
+    "question": "Convert to indirect speech: He asked, \"Where do you live?\"",
+    "options": [
+      "He asked where I live.",
+      "He asked where did I live.",
+      "He asked where I lived.",
+      "He asked where I am living."
+    ],
+    "correct_answer": "He asked where I lived.",
+    "explanation": "In reported questions, the tense shifts back and the word order becomes a statement, not a question."
+  },
+  {
+    "id": 171,
+    "topic": "Conditional Sentences",
+    "category": "Other Grammar",
+    "difficulty": "elementary",
+    "question": "If it rains, I ___ stay home.",
+    "options": [
+      "will",
+      "would",
+      "had",
+      "was"
+    ],
+    "correct_answer": "will",
+    "explanation": "This is a first conditional (real possibility), using 'if + present simple, will + base verb'."
+  },
+  {
+    "id": 172,
+    "topic": "Conditional Sentences",
+    "category": "Other Grammar",
+    "difficulty": "intermediate",
+    "question": "If I ___ rich, I would travel the world.",
+    "options": [
+      "am",
+      "was",
+      "were",
+      "be"
+    ],
+    "correct_answer": "were",
+    "explanation": "The second conditional (hypothetical present) uses 'if + past simple (were), would + base verb'."
+  },
+  {
+    "id": 173,
+    "topic": "Conditional Sentences",
+    "category": "Other Grammar",
+    "difficulty": "intermediate",
+    "question": "If she had studied, she ___ passed the exam.",
+    "options": [
+      "would have",
+      "will have",
+      "would",
+      "has"
+    ],
+    "correct_answer": "would have",
+    "explanation": "The third conditional (hypothetical past) uses 'if + past perfect, would have + past participle'."
+  },
+  {
+    "id": 174,
+    "topic": "Conditional Sentences",
+    "category": "Other Grammar",
+    "difficulty": "upper_intermediate",
+    "question": "If you heat ice, it ___.",
+    "options": [
+      "will melt",
+      "would melt",
+      "melts",
+      "is melting"
+    ],
+    "correct_answer": "melts",
+    "explanation": "The zero conditional expresses general truths using present simple in both clauses."
+  },
+  {
+    "id": 175,
+    "topic": "Conditional Sentences",
+    "category": "Other Grammar",
+    "difficulty": "advanced",
+    "question": "Choose the correct mixed conditional: 'If I had taken that job, I ___ happier now.'",
+    "options": [
+      "would be",
+      "would have been",
+      "will be",
+      "am"
+    ],
+    "correct_answer": "would be",
+    "explanation": "Mixed conditionals combine a past condition with a present result: 'if + past perfect, would + base verb'."
+  },
+  {
+    "id": 176,
+    "topic": "Comparisons",
+    "category": "Other Grammar",
+    "difficulty": "beginner",
+    "question": "This phone is ___ than that one.",
+    "options": [
+      "cheap",
+      "cheaper",
+      "cheapest",
+      "more cheap"
+    ],
+    "correct_answer": "cheaper",
+    "explanation": "Short adjectives like 'cheap' form the comparative with -er."
+  },
+  {
+    "id": 177,
+    "topic": "Comparisons",
+    "category": "Other Grammar",
+    "difficulty": "elementary",
+    "question": "She is the ___ student in the class.",
+    "options": [
+      "smart",
+      "smarter",
+      "smartest",
+      "most smart"
+    ],
+    "correct_answer": "smartest",
+    "explanation": "Superlatives use -est for short adjectives and are preceded by 'the'."
+  },
+  {
+    "id": 178,
+    "topic": "Comparisons",
+    "category": "Other Grammar",
+    "difficulty": "intermediate",
+    "question": "This task is ___ difficult than the last one.",
+    "options": [
+      "more",
+      "most",
+      "much",
+      "very"
+    ],
+    "correct_answer": "more",
+    "explanation": "Multi-syllable adjectives like 'difficult' use 'more' to form the comparative."
+  },
+  {
+    "id": 179,
+    "topic": "Comparisons",
+    "category": "Other Grammar",
+    "difficulty": "upper_intermediate",
+    "question": "He runs as fast ___ his brother.",
+    "options": [
+      "than",
+      "as",
+      "like",
+      "so"
+    ],
+    "correct_answer": "as",
+    "explanation": "Equal comparisons use the structure 'as + adjective/adverb + as'."
+  },
+  {
+    "id": 180,
+    "topic": "Common Grammar Errors",
+    "category": "Other Grammar",
+    "difficulty": "beginner",
+    "question": "Choose the correct sentence.",
+    "options": [
+      "Me and him went to the store.",
+      "He and I went to the store.",
+      "Him and me went to the store.",
+      "I and he went to the store."
+    ],
+    "correct_answer": "He and I went to the store.",
+    "explanation": "Subject pronouns (He, I) should be used as the subject of a sentence, and 'I' is conventionally placed last."
+  },
+  {
+    "id": 181,
+    "topic": "Common Grammar Errors",
+    "category": "Other Grammar",
+    "difficulty": "elementary",
+    "question": "Choose the correct sentence.",
+    "options": [
+      "There going to the party.",
+      "They're going to the party.",
+      "Their going to the party.",
+      "Ther going to the party."
+    ],
+    "correct_answer": "They're going to the party.",
+    "explanation": "'They're' is the contraction of 'they are', which fits the intended meaning here."
+  },
+  {
+    "id": 182,
+    "topic": "Common Grammar Errors",
+    "category": "Other Grammar",
+    "difficulty": "intermediate",
+    "question": "Choose the correct sentence.",
+    "options": [
+      "Its a beautiful day.",
+      "It's a beautiful day.",
+      "Its' a beautiful day.",
+      "Its a beautiful, day."
+    ],
+    "correct_answer": "It's a beautiful day.",
+    "explanation": "'It's' is the contraction of 'it is', while 'its' is a possessive pronoun."
+  },
+  {
+    "id": 183,
+    "topic": "Common Grammar Errors",
+    "category": "Other Grammar",
+    "difficulty": "intermediate",
+    "question": "Choose the correct sentence.",
+    "options": [
+      "I could of helped you.",
+      "I could have helped you.",
+      "I could had helped you.",
+      "I could helped you."
+    ],
+    "correct_answer": "I could have helped you.",
+    "explanation": "'Could have' is often mispronounced as 'could of', but the correct written form is 'could have'."
+  },
+  {
+    "id": 184,
+    "topic": "Common Grammar Errors",
+    "category": "Other Grammar",
+    "difficulty": "upper_intermediate",
+    "question": "Choose the correct sentence.",
+    "options": [
+      "Between you and I, this is wrong.",
+      "Between you and me, this is wrong.",
+      "Between you and myself, this is wrong.",
+      "Between I and you, this is wrong."
+    ],
+    "correct_answer": "Between you and me, this is wrong.",
+    "explanation": "After a preposition like 'between', the object pronoun 'me' should be used, not the subject pronoun 'I'."
+  },
+  {
+    "id": 185,
+    "topic": "Common Grammar Errors",
+    "category": "Other Grammar",
+    "difficulty": "advanced",
+    "question": "Choose the correct sentence.",
+    "options": [
+      "Less people came to the event.",
+      "Fewer people came to the event.",
+      "Few people came to the event, less than expected.",
+      "Lesser people came to the event."
+    ],
+    "correct_answer": "Fewer people came to the event.",
+    "explanation": "'Fewer' is used with countable nouns like 'people', while 'less' is used with uncountable nouns."
+  }
+]

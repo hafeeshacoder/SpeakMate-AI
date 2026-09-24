@@ -1,0 +1,198 @@
+[
+  {
+    "id": 1,
+    "category": "Self Introduction",
+    "scenario": "You are meeting a new group of classmates or colleagues for the first time.",
+    "suggested_opening": "Hi, I'm [Name]. It's great to meet you all!",
+    "practice_prompt": "Introduce yourself: mention your name, what you do or study, and one interesting fact about yourself.",
+    "example_response": "Hi, I'm Ananya. I'm a final-year computer science student, and I love building small apps in my free time.",
+    "useful_phrases": [
+      "Nice to meet you",
+      "I'm currently studying / working at...",
+      "In my free time, I enjoy...",
+      "A little about myself..."
+    ]
+  },
+  {
+    "id": 2,
+    "category": "College",
+    "scenario": "A classmate asks you about your favorite subject and why you enjoy it.",
+    "suggested_opening": "One of my favorite subjects is...",
+    "practice_prompt": "Explain which subject you enjoy most in college and why, giving one specific reason.",
+    "example_response": "One of my favorite subjects is data structures because it helps me think logically and solve real problems.",
+    "useful_phrases": [
+      "My favorite subject is...",
+      "I enjoy it because...",
+      "It has helped me...",
+      "I'm hoping to specialize in..."
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Friends",
+    "scenario": "You are catching up with a close friend you haven't seen in a while.",
+    "suggested_opening": "Hey! It's been so long, how have you been?",
+    "practice_prompt": "Write a short, friendly message catching up with a friend about what's new in your life.",
+    "example_response": "Hey! It's been so long \u2014 how have you been? I just started a new internship and it's been really exciting!",
+    "useful_phrases": [
+      "It's been ages!",
+      "What have you been up to?",
+      "Guess what happened...",
+      "We should catch up soon."
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Family",
+    "scenario": "You are describing your family to someone who is asking about your background.",
+    "suggested_opening": "I come from a family of four...",
+    "practice_prompt": "Describe your family in a few sentences, including who they are and what they do.",
+    "example_response": "I come from a family of four. My father is an engineer, my mother teaches at a school, and I have a younger sister in college.",
+    "useful_phrases": [
+      "I come from a family of...",
+      "My parents work as...",
+      "We are a close-knit family.",
+      "I have a younger/older sibling."
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Daily Routine",
+    "scenario": "Someone asks you to describe a typical day in your life.",
+    "suggested_opening": "A typical day for me starts at...",
+    "practice_prompt": "Describe your daily routine from morning to evening in a few sentences.",
+    "example_response": "A typical day for me starts at 6 am with a short workout, followed by classes until 3 pm, and evening study time.",
+    "useful_phrases": [
+      "My day usually starts with...",
+      "After that, I...",
+      "In the evening, I...",
+      "Before bed, I usually..."
+    ]
+  },
+  {
+    "id": 6,
+    "category": "Shopping",
+    "scenario": "You are at a clothing store and want help finding a specific item in your size.",
+    "suggested_opening": "Excuse me, could you help me find...",
+    "practice_prompt": "Politely ask a shop assistant for help finding an item and ask about the price.",
+    "example_response": "Excuse me, could you help me find this shirt in a medium size? Also, could you tell me the price?",
+    "useful_phrases": [
+      "Excuse me, do you have this in...",
+      "How much does this cost?",
+      "Can I try this on?",
+      "Do you have a discount on this?"
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Travel",
+    "scenario": "You are checking in at a hotel and need to confirm your reservation.",
+    "suggested_opening": "Hi, I have a reservation under the name...",
+    "practice_prompt": "Politely check in at a hotel, confirming your reservation and asking about checkout time.",
+    "example_response": "Hi, I have a reservation under the name Rahul Sharma. Could you also let me know the checkout time?",
+    "useful_phrases": [
+      "I have a reservation under...",
+      "Could you tell me the checkout time?",
+      "Is breakfast included?",
+      "Could I get a room with a view?"
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Asking for Help",
+    "scenario": "You are lost in an unfamiliar city and need directions to the train station.",
+    "suggested_opening": "Excuse me, could you help me with directions?",
+    "practice_prompt": "Politely ask a stranger for directions to a specific place.",
+    "example_response": "Excuse me, could you help me with directions to the train station? I seem to have lost my way.",
+    "useful_phrases": [
+      "Excuse me, could you help me...",
+      "I seem to be lost.",
+      "Which way is...?",
+      "Thank you so much for your help."
+    ]
+  },
+  {
+    "id": 9,
+    "category": "Making Requests",
+    "scenario": "You need to ask a colleague to send you a document by the end of the day.",
+    "suggested_opening": "Would you mind sending me...",
+    "practice_prompt": "Make a polite formal request to a colleague for a document with a deadline.",
+    "example_response": "Would you mind sending me the sales report by the end of today? I need it for tomorrow's meeting.",
+    "useful_phrases": [
+      "Would you mind...?",
+      "Could you please...?",
+      "I would appreciate it if...",
+      "When you get a chance, could you..."
+    ]
+  },
+  {
+    "id": 10,
+    "category": "Giving Opinions",
+    "scenario": "Your team is discussing which marketing strategy to use, and you are asked for your opinion.",
+    "suggested_opening": "In my opinion, I think we should...",
+    "practice_prompt": "Share your opinion on a work-related decision, giving at least one reason.",
+    "example_response": "In my opinion, I think we should focus on social media marketing because it reaches a younger audience more effectively.",
+    "useful_phrases": [
+      "In my opinion...",
+      "I believe that...",
+      "From my perspective...",
+      "The way I see it..."
+    ]
+  },
+  {
+    "id": 11,
+    "category": "Agreeing",
+    "scenario": "A colleague suggests an idea in a meeting that you fully support.",
+    "suggested_opening": "I completely agree with that idea because...",
+    "practice_prompt": "Express agreement with a colleague's suggestion and add a supporting reason.",
+    "example_response": "I completely agree with that idea because it would save us both time and money in the long run.",
+    "useful_phrases": [
+      "I completely agree.",
+      "That's a great point.",
+      "I couldn't agree more.",
+      "You're absolutely right about that."
+    ]
+  },
+  {
+    "id": 12,
+    "category": "Disagreeing",
+    "scenario": "A colleague suggests an approach you think might not work well, and you want to respectfully disagree.",
+    "suggested_opening": "I see your point, but I have a slightly different view...",
+    "practice_prompt": "Politely disagree with an idea and suggest an alternative.",
+    "example_response": "I see your point, but I have a slightly different view \u2014 I think a phased rollout might reduce the risk involved.",
+    "useful_phrases": [
+      "I see your point, but...",
+      "I'm not sure I fully agree...",
+      "Have we considered...?",
+      "An alternative might be..."
+    ]
+  },
+  {
+    "id": 13,
+    "category": "Workplace",
+    "scenario": "You need to update your manager on the progress of a project during a status meeting.",
+    "suggested_opening": "I wanted to give you a quick update on...",
+    "practice_prompt": "Give a brief professional status update about a project's progress.",
+    "example_response": "I wanted to give you a quick update on the app redesign \u2014 we're on track and should finish testing by Friday.",
+    "useful_phrases": [
+      "I wanted to update you on...",
+      "We're currently on track / slightly behind schedule.",
+      "The next steps are...",
+      "Let me know if you have questions."
+    ]
+  },
+  {
+    "id": 14,
+    "category": "Professional Communication",
+    "scenario": "You are writing a follow-up email after a business meeting to summarize the key points.",
+    "suggested_opening": "Thank you for the productive meeting today...",
+    "practice_prompt": "Write a short professional follow-up message summarizing key points and next steps after a meeting.",
+    "example_response": "Thank you for the productive meeting today. To summarize, we agreed to finalize the budget by next week and schedule a follow-up call.",
+    "useful_phrases": [
+      "Thank you for your time today.",
+      "To summarize our discussion...",
+      "The next steps are...",
+      "Please let me know if I've missed anything."
+    ]
+  }
+]

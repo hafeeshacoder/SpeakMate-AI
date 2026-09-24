@@ -1,0 +1,39 @@
+{
+  "name": "",
+  "english_level": "beginner",
+  "learning_goal": "Improve Grammar",
+  "daily_goal_minutes": 15,
+  "onboarded": true,
+  "xp": 0,
+  "streak": {
+    "current": 0,
+    "longest": 0,
+    "last_active_date": null
+  },
+  "daily_goal": {
+    "date": null,
+    "minutes_completed": 0,
+    "met_count": 0,
+    "awarded_today": false
+  },
+  "category_scores": {
+    "grammar": [],
+    "vocabulary": [],
+    "sentence_formation": [],
+    "communication": [],
+    "speaking": [],
+    "interview": []
+  },
+  "activity_counts": {
+    "grammar": 0,
+    "vocabulary": 0,
+    "sentence_formation": 0,
+    "communication": 0,
+    "speaking": 0,
+    "interview": 0
+  },
+  "learned_words": [],
+  "completed_item_ids": [],
+  "achievements_unlocked": [],
+  "created_at": "2026-09-24T10:40:50"
+}

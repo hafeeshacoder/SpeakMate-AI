@@ -1,0 +1,641 @@
+[
+  {
+    "id": 1,
+    "type": "arrange_words",
+    "difficulty": "beginner",
+    "prompt": "Arrange these words into a correct sentence.",
+    "data": {
+      "words": [
+        "college",
+        "I",
+        "every",
+        "go",
+        "day",
+        "to"
+      ]
+    },
+    "answer": "I go to college every day.",
+    "explanation": "The correct order follows Subject + Verb + Object/Place + Time: 'I go to college every day.'"
+  },
+  {
+    "id": 2,
+    "type": "arrange_words",
+    "difficulty": "beginner",
+    "prompt": "Arrange these words into a correct sentence.",
+    "data": {
+      "words": [
+        "she",
+        "a",
+        "book",
+        "reading",
+        "is"
+      ]
+    },
+    "answer": "She is reading a book.",
+    "explanation": "Present continuous order: Subject + is/am/are + verb-ing + object."
+  },
+  {
+    "id": 3,
+    "type": "arrange_words",
+    "difficulty": "beginner",
+    "prompt": "Arrange these words into a correct sentence.",
+    "data": {
+      "words": [
+        "yesterday",
+        "market",
+        "went",
+        "we",
+        "the",
+        "to"
+      ]
+    },
+    "answer": "We went to the market yesterday.",
+    "explanation": "Time expressions like 'yesterday' usually go at the end: Subject + Verb + Place + Time."
+  },
+  {
+    "id": 4,
+    "type": "arrange_words",
+    "difficulty": "beginner",
+    "prompt": "Arrange these words into a correct sentence.",
+    "data": {
+      "words": [
+        "weather",
+        "today",
+        "beautiful",
+        "the",
+        "is"
+      ]
+    },
+    "answer": "The weather is beautiful today.",
+    "explanation": "Subject + verb 'is' + adjective + time expression is the natural English order."
+  },
+  {
+    "id": 5,
+    "type": "arrange_words",
+    "difficulty": "beginner",
+    "prompt": "Arrange these words into a correct sentence.",
+    "data": {
+      "words": [
+        "dinner",
+        "cooking",
+        "mother",
+        "my",
+        "is"
+      ]
+    },
+    "answer": "My mother is cooking dinner.",
+    "explanation": "Possessive + subject noun + is + verb-ing + object gives the correct order."
+  },
+  {
+    "id": 6,
+    "type": "arrange_words",
+    "difficulty": "beginner",
+    "prompt": "Arrange these words into a correct sentence.",
+    "data": {
+      "words": [
+        "exam",
+        "hard",
+        "I",
+        "for",
+        "studied",
+        "the"
+      ]
+    },
+    "answer": "I studied hard for the exam.",
+    "explanation": "Subject + verb + adverb + prepositional phrase follows natural English word order."
+  },
+  {
+    "id": 7,
+    "type": "arrange_words",
+    "difficulty": "beginner",
+    "prompt": "Arrange these words into a correct sentence.",
+    "data": {
+      "words": [
+        "friends",
+        "with",
+        "park",
+        "play",
+        "children",
+        "the",
+        "in",
+        "the"
+      ]
+    },
+    "answer": "The children play with friends in the park.",
+    "explanation": "Subject + verb + prepositional phrases (with whom, where) in logical order."
+  },
+  {
+    "id": 8,
+    "type": "arrange_words",
+    "difficulty": "beginner",
+    "prompt": "Arrange these words into a correct sentence.",
+    "data": {
+      "words": [
+        "never",
+        "late",
+        "he",
+        "office",
+        "to",
+        "comes",
+        "the"
+      ]
+    },
+    "answer": "He never comes late to the office.",
+    "explanation": "Adverbs of frequency like 'never' come before the main verb: Subject + never + verb + adjective + place."
+  },
+  {
+    "id": 9,
+    "type": "arrange_words",
+    "difficulty": "beginner",
+    "prompt": "Arrange these words into a correct sentence.",
+    "data": {
+      "words": [
+        "bought",
+        "a",
+        "new",
+        "phone",
+        "she",
+        "yesterday"
+      ]
+    },
+    "answer": "She bought a new phone yesterday.",
+    "explanation": "Subject + verb (past) + object + time expression is the standard past-tense order."
+  },
+  {
+    "id": 10,
+    "type": "arrange_words",
+    "difficulty": "beginner",
+    "prompt": "Arrange these words into a correct sentence.",
+    "data": {
+      "words": [
+        "important",
+        "is",
+        "very",
+        "education",
+        "today"
+      ]
+    },
+    "answer": "Education is very important today.",
+    "explanation": "Subject + verb 'is' + adverb + adjective + time gives natural order for this statement."
+  },
+  {
+    "id": 11,
+    "type": "arrange_words",
+    "difficulty": "beginner",
+    "prompt": "Arrange these words into a correct sentence.",
+    "data": {
+      "words": [
+        "always",
+        "breakfast",
+        "eats",
+        "he",
+        "morning",
+        "in",
+        "the"
+      ]
+    },
+    "answer": "He always eats breakfast in the morning.",
+    "explanation": "Adverb of frequency 'always' goes before the main verb, followed by object and time phrase."
+  },
+  {
+    "id": 12,
+    "type": "arrange_words",
+    "difficulty": "beginner",
+    "prompt": "Arrange these words into a correct sentence.",
+    "data": {
+      "words": [
+        "difficult",
+        "question",
+        "was",
+        "that",
+        "very"
+      ]
+    },
+    "answer": "That question was very difficult.",
+    "explanation": "Subject + verb 'was' + adverb + adjective completes this descriptive sentence correctly."
+  },
+  {
+    "id": 13,
+    "type": "correct_sentence",
+    "difficulty": "beginner",
+    "prompt": "Find and correct the grammar mistake in this sentence.",
+    "data": {
+      "incorrect": "She go to school every day."
+    },
+    "answer": "She goes to school every day.",
+    "explanation": "Third-person singular subjects need -s/-es added to the verb in the simple present: 'goes'."
+  },
+  {
+    "id": 14,
+    "type": "correct_sentence",
+    "difficulty": "beginner",
+    "prompt": "Find and correct the grammar mistake in this sentence.",
+    "data": {
+      "incorrect": "He don't like vegetables."
+    },
+    "answer": "He doesn't like vegetables.",
+    "explanation": "With he/she/it, the negative auxiliary in the simple present is 'doesn't', not 'don't'."
+  },
+  {
+    "id": 15,
+    "type": "correct_sentence",
+    "difficulty": "elementary",
+    "prompt": "Find and correct the grammar mistake in this sentence.",
+    "data": {
+      "incorrect": "I have twenty years old."
+    },
+    "answer": "I am twenty years old.",
+    "explanation": "In English, age is expressed with the verb 'to be', not 'have': 'I am twenty years old.'"
+  },
+  {
+    "id": 16,
+    "type": "correct_sentence",
+    "difficulty": "elementary",
+    "prompt": "Find and correct the grammar mistake in this sentence.",
+    "data": {
+      "incorrect": "She is agree with you."
+    },
+    "answer": "She agrees with you.",
+    "explanation": "'Agree' is a main verb and should not be combined with 'is'; use the simple present form directly."
+  },
+  {
+    "id": 17,
+    "type": "correct_sentence",
+    "difficulty": "elementary",
+    "prompt": "Find and correct the grammar mistake in this sentence.",
+    "data": {
+      "incorrect": "They was playing football."
+    },
+    "answer": "They were playing football.",
+    "explanation": "'They' is plural, so the past continuous auxiliary must be 'were', not 'was'."
+  },
+  {
+    "id": 18,
+    "type": "correct_sentence",
+    "difficulty": "intermediate",
+    "prompt": "Find and correct the grammar mistake in this sentence.",
+    "data": {
+      "incorrect": "I am understanding the lesson now."
+    },
+    "answer": "I understand the lesson now.",
+    "explanation": "'Understand' is a stative verb and is not normally used in the continuous form."
+  },
+  {
+    "id": 19,
+    "type": "correct_sentence",
+    "difficulty": "intermediate",
+    "prompt": "Find and correct the grammar mistake in this sentence.",
+    "data": {
+      "incorrect": "He is married with a teacher."
+    },
+    "answer": "He is married to a teacher.",
+    "explanation": "The correct fixed preposition after 'married' is 'to', not 'with'."
+  },
+  {
+    "id": 20,
+    "type": "correct_sentence",
+    "difficulty": "upper_intermediate",
+    "prompt": "Find and correct the grammar mistake in this sentence.",
+    "data": {
+      "incorrect": "She explained me the problem."
+    },
+    "answer": "She explained the problem to me.",
+    "explanation": "'Explain' requires 'to' before the indirect object: 'explain something to someone'."
+  },
+  {
+    "id": 21,
+    "type": "positive_to_negative",
+    "difficulty": "beginner",
+    "prompt": "Convert this sentence into its negative form.",
+    "data": {
+      "positive": "I like coffee."
+    },
+    "answer": "I do not like coffee.",
+    "explanation": "Add 'do not' (don't) before the base verb for simple present negatives."
+  },
+  {
+    "id": 22,
+    "type": "positive_to_negative",
+    "difficulty": "beginner",
+    "prompt": "Convert this sentence into its negative form.",
+    "data": {
+      "positive": "She plays tennis."
+    },
+    "answer": "She does not play tennis.",
+    "explanation": "Use 'does not' (doesn't) with third-person singular subjects, and revert the verb to its base form."
+  },
+  {
+    "id": 23,
+    "type": "positive_to_negative",
+    "difficulty": "beginner",
+    "prompt": "Convert this sentence into its negative form.",
+    "data": {
+      "positive": "They are coming to the party."
+    },
+    "answer": "They are not coming to the party.",
+    "explanation": "Simply add 'not' after the auxiliary verb 'are' to negate."
+  },
+  {
+    "id": 24,
+    "type": "positive_to_negative",
+    "difficulty": "elementary",
+    "prompt": "Convert this sentence into its negative form.",
+    "data": {
+      "positive": "He finished his work."
+    },
+    "answer": "He did not finish his work.",
+    "explanation": "Use 'did not' (didn't) + base verb form to negate simple past sentences."
+  },
+  {
+    "id": 25,
+    "type": "positive_to_negative",
+    "difficulty": "elementary",
+    "prompt": "Convert this sentence into its negative form.",
+    "data": {
+      "positive": "We have completed the project."
+    },
+    "answer": "We have not completed the project.",
+    "explanation": "Add 'not' after the auxiliary 'have' to form the negative present perfect."
+  },
+  {
+    "id": 26,
+    "type": "positive_to_negative",
+    "difficulty": "intermediate",
+    "prompt": "Convert this sentence into its negative form.",
+    "data": {
+      "positive": "She will attend the meeting."
+    },
+    "answer": "She will not attend the meeting.",
+    "explanation": "Add 'not' after the modal 'will' (will not / won't) to negate the future."
+  },
+  {
+    "id": 27,
+    "type": "statement_to_question",
+    "difficulty": "beginner",
+    "prompt": "Convert this statement into a question.",
+    "data": {
+      "statement": "She is a doctor."
+    },
+    "answer": "Is she a doctor?",
+    "explanation": "Invert the subject and the verb 'to be' to form the question: 'Is she...?'"
+  },
+  {
+    "id": 28,
+    "type": "statement_to_question",
+    "difficulty": "beginner",
+    "prompt": "Convert this statement into a question.",
+    "data": {
+      "statement": "They live in Chennai."
+    },
+    "answer": "Do they live in Chennai?",
+    "explanation": "Add 'Do' at the start for plural subjects in the simple present question form."
+  },
+  {
+    "id": 29,
+    "type": "statement_to_question",
+    "difficulty": "beginner",
+    "prompt": "Convert this statement into a question.",
+    "data": {
+      "statement": "He works in an office."
+    },
+    "answer": "Does he work in an office?",
+    "explanation": "Use 'Does' with third-person singular subjects, and return the verb to its base form."
+  },
+  {
+    "id": 30,
+    "type": "statement_to_question",
+    "difficulty": "elementary",
+    "prompt": "Convert this statement into a question.",
+    "data": {
+      "statement": "You have finished the report."
+    },
+    "answer": "Have you finished the report?",
+    "explanation": "Invert the auxiliary 'have' and the subject 'you' to form the present perfect question."
+  },
+  {
+    "id": 31,
+    "type": "statement_to_question",
+    "difficulty": "elementary",
+    "prompt": "Convert this statement into a question.",
+    "data": {
+      "statement": "She can speak French."
+    },
+    "answer": "Can she speak French?",
+    "explanation": "Move the modal verb 'can' before the subject to form the question."
+  },
+  {
+    "id": 32,
+    "type": "statement_to_question",
+    "difficulty": "intermediate",
+    "prompt": "Convert this statement into a question.",
+    "data": {
+      "statement": "They were watching a movie."
+    },
+    "answer": "Were they watching a movie?",
+    "explanation": "Invert the auxiliary 'were' and subject 'they' to form the past continuous question."
+  },
+  {
+    "id": 33,
+    "type": "change_tense",
+    "difficulty": "beginner",
+    "prompt": "Rewrite this sentence in the past tense.",
+    "data": {
+      "original": "I eat breakfast at 8 am.",
+      "target_tense": "past"
+    },
+    "answer": "I ate breakfast at 8 am.",
+    "explanation": "The irregular verb 'eat' changes to 'ate' in the simple past."
+  },
+  {
+    "id": 34,
+    "type": "change_tense",
+    "difficulty": "beginner",
+    "prompt": "Rewrite this sentence in the present continuous tense.",
+    "data": {
+      "original": "She writes a letter.",
+      "target_tense": "present_continuous"
+    },
+    "answer": "She is writing a letter.",
+    "explanation": "Add 'is' + verb-ing to form the present continuous from the simple present."
+  },
+  {
+    "id": 35,
+    "type": "change_tense",
+    "difficulty": "beginner",
+    "prompt": "Rewrite this sentence in the future tense.",
+    "data": {
+      "original": "They play cricket.",
+      "target_tense": "future"
+    },
+    "answer": "They will play cricket.",
+    "explanation": "Add 'will' before the base verb to form the simple future."
+  },
+  {
+    "id": 36,
+    "type": "change_tense",
+    "difficulty": "elementary",
+    "prompt": "Rewrite this sentence in the present perfect tense.",
+    "data": {
+      "original": "He completed the assignment.",
+      "target_tense": "present_perfect"
+    },
+    "answer": "He has completed the assignment.",
+    "explanation": "Use 'has' + past participle to shift from simple past to present perfect."
+  },
+  {
+    "id": 37,
+    "type": "change_tense",
+    "difficulty": "intermediate",
+    "prompt": "Rewrite this sentence in the past continuous tense.",
+    "data": {
+      "original": "We visit our grandparents.",
+      "target_tense": "past_continuous"
+    },
+    "answer": "We were visiting our grandparents.",
+    "explanation": "Use 'were' + verb-ing to express an ongoing action in the past."
+  },
+  {
+    "id": 38,
+    "type": "change_tense",
+    "difficulty": "upper_intermediate",
+    "prompt": "Rewrite this sentence in the future perfect tense.",
+    "data": {
+      "original": "I finish my homework.",
+      "target_tense": "future_perfect"
+    },
+    "answer": "I will have finished my homework.",
+    "explanation": "Use 'will have' + past participle to express the future perfect tense."
+  },
+  {
+    "id": 39,
+    "type": "complete_sentence",
+    "difficulty": "beginner",
+    "prompt": "Fill in the blank to complete the sentence correctly.",
+    "data": {
+      "sentence": "If it rains tomorrow, I ___ stay at home."
+    },
+    "answer": "will",
+    "explanation": "First conditional sentences use 'will' + base verb in the result clause."
+  },
+  {
+    "id": 40,
+    "type": "complete_sentence",
+    "difficulty": "elementary",
+    "prompt": "Fill in the blank to complete the sentence correctly.",
+    "data": {
+      "sentence": "She has been working here ___ 2019."
+    },
+    "answer": "since",
+    "explanation": "'Since' is used with a specific starting point in time (a year, date, or event)."
+  },
+  {
+    "id": 41,
+    "type": "complete_sentence",
+    "difficulty": "elementary",
+    "prompt": "Fill in the blank to complete the sentence correctly.",
+    "data": {
+      "sentence": "He is interested ___ learning new languages."
+    },
+    "answer": "in",
+    "explanation": "The fixed expression is 'interested in' + gerund."
+  },
+  {
+    "id": 42,
+    "type": "complete_sentence",
+    "difficulty": "intermediate",
+    "prompt": "Fill in the blank to complete the sentence correctly.",
+    "data": {
+      "sentence": "I would rather stay home ___ go to the party."
+    },
+    "answer": "than",
+    "explanation": "'Would rather...than' is the correct fixed structure for expressing preference."
+  },
+  {
+    "id": 43,
+    "type": "complete_sentence",
+    "difficulty": "upper_intermediate",
+    "prompt": "Fill in the blank to complete the sentence correctly.",
+    "data": {
+      "sentence": "Despite ___ tired, she finished the marathon."
+    },
+    "answer": "being",
+    "explanation": "'Despite' is followed by a gerund ('being') or a noun, not a full clause."
+  },
+  {
+    "id": 44,
+    "type": "complete_sentence",
+    "difficulty": "advanced",
+    "prompt": "Fill in the blank to complete the sentence correctly.",
+    "data": {
+      "sentence": "No sooner had he arrived ___ the meeting started."
+    },
+    "answer": "than",
+    "explanation": "'No sooner...than' is a fixed correlative structure used for near-simultaneous events."
+  },
+  {
+    "id": 45,
+    "type": "situation_based",
+    "difficulty": "beginner",
+    "prompt": "You are meeting someone for the first time. Introduce yourself in one sentence.",
+    "data": {
+      "situation": "You are meeting someone for the first time. Introduce yourself in one sentence."
+    },
+    "answer": "Hi, my name is [Your Name], and it's nice to meet you.",
+    "explanation": "A good self-introduction includes a greeting, your name, and a polite closing phrase. Answers may vary."
+  },
+  {
+    "id": 46,
+    "type": "situation_based",
+    "difficulty": "elementary",
+    "prompt": "You are ordering food at a restaurant. Write a polite request.",
+    "data": {
+      "situation": "You are ordering food at a restaurant. Write a polite request."
+    },
+    "answer": "Could I please have a plate of pasta and a glass of water?",
+    "explanation": "Polite requests often use 'Could I please have...' followed by what you want. Answers may vary."
+  },
+  {
+    "id": 47,
+    "type": "situation_based",
+    "difficulty": "intermediate",
+    "prompt": "You need to ask your manager for a day off. Write a polite sentence.",
+    "data": {
+      "situation": "You need to ask your manager for a day off. Write a polite sentence."
+    },
+    "answer": "Would it be possible for me to take a day off next Friday?",
+    "explanation": "Formal requests to a manager often use 'Would it be possible...' for politeness. Answers may vary."
+  },
+  {
+    "id": 48,
+    "type": "situation_based",
+    "difficulty": "upper_intermediate",
+    "prompt": "You disagree with a colleague's idea in a meeting. Respond politely.",
+    "data": {
+      "situation": "You disagree with a colleague's idea in a meeting. Respond politely."
+    },
+    "answer": "I see your point, but I think we should consider another approach as well.",
+    "explanation": "Polite disagreement acknowledges the other view before offering an alternative. Answers may vary."
+  },
+  {
+    "id": 49,
+    "type": "situation_based",
+    "difficulty": "advanced",
+    "prompt": "You are asked in an interview why you want the job. Answer in one sentence.",
+    "data": {
+      "situation": "You are asked in an interview why you want the job. Answer in one sentence."
+    },
+    "answer": "I'm excited about this role because it matches my skills and lets me grow professionally.",
+    "explanation": "A strong interview answer connects your motivation to the role and your own growth. Answers may vary."
+  },
+  {
+    "id": 50,
+    "type": "situation_based",
+    "difficulty": "elementary",
+    "prompt": "You want to ask a stranger for directions politely.",
+    "data": {
+      "situation": "You want to ask a stranger for directions politely."
+    },
+    "answer": "Excuse me, could you tell me how to get to the nearest train station?",
+    "explanation": "Polite requests to strangers typically begin with 'Excuse me' followed by a courteous question. Answers may vary."
+  }
+]

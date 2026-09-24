@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "title": "Tell me about yourself",
+    "category": "Personal",
+    "prompt": "Share your name, background, interests, and what makes you unique.",
+    "suggested_duration_seconds": 60
+  },
+  {
+    "id": 2,
+    "title": "My college",
+    "category": "Education",
+    "prompt": "Describe your college, what you study, and what you enjoy about it.",
+    "suggested_duration_seconds": 60
+  },
+  {
+    "id": 3,
+    "title": "My daily routine",
+    "category": "Lifestyle",
+    "prompt": "Walk through a typical day from morning to night.",
+    "suggested_duration_seconds": 60
+  },
+  {
+    "id": 4,
+    "title": "My family",
+    "category": "Personal",
+    "prompt": "Describe your family members and your relationship with them.",
+    "suggested_duration_seconds": 60
+  },
+  {
+    "id": 5,
+    "title": "My hobby",
+    "category": "Personal",
+    "prompt": "Talk about a hobby you enjoy and why it matters to you.",
+    "suggested_duration_seconds": 60
+  },
+  {
+    "id": 6,
+    "title": "My goals",
+    "category": "Personal",
+    "prompt": "Share your short-term and long-term personal or career goals.",
+    "suggested_duration_seconds": 60
+  },
+  {
+    "id": 7,
+    "title": "My favorite technology",
+    "category": "Technology",
+    "prompt": "Describe a piece of technology you use often and why you like it.",
+    "suggested_duration_seconds": 60
+  },
+  {
+    "id": 8,
+    "title": "My project",
+    "category": "Academic",
+    "prompt": "Explain a project you have worked on, its purpose, and the outcome.",
+    "suggested_duration_seconds": 60
+  },
+  {
+    "id": 9,
+    "title": "My internship",
+    "category": "Career",
+    "prompt": "Describe your internship experience and what you learned.",
+    "suggested_duration_seconds": 60
+  },
+  {
+    "id": 10,
+    "title": "My strengths",
+    "category": "Personal",
+    "prompt": "Talk about two or three of your key strengths with examples.",
+    "suggested_duration_seconds": 60
+  },
+  {
+    "id": 11,
+    "title": "My weaknesses",
+    "category": "Personal",
+    "prompt": "Talk about an area you are working to improve, and how.",
+    "suggested_duration_seconds": 60
+  },
+  {
+    "id": 12,
+    "title": "A memorable experience",
+    "category": "Personal",
+    "prompt": "Describe a memorable event in your life and why it stands out.",
+    "suggested_duration_seconds": 60
+  },
+  {
+    "id": 13,
+    "title": "Why did you choose computer science?",
+    "category": "Academic",
+    "prompt": "Explain your motivation for choosing this field of study.",
+    "suggested_duration_seconds": 60
+  },
+  {
+    "id": 14,
+    "title": "Why do you want to improve English?",
+    "category": "Personal",
+    "prompt": "Share your reasons for wanting to become more fluent in English.",
+    "suggested_duration_seconds": 60
+  },
+  {
+    "id": 15,
+    "title": "Describe your hometown",
+    "category": "Personal",
+    "prompt": "Talk about where you are from and what makes it special.",
+    "suggested_duration_seconds": 60
+  },
+  {
+    "id": 16,
+    "title": "Talk about your favorite book",
+    "category": "Culture",
+    "prompt": "Describe a book you enjoyed and what it taught you.",
+    "suggested_duration_seconds": 60
+  },
+  {
+    "id": 17,
+    "title": "Talk about your favorite movie",
+    "category": "Culture",
+    "prompt": "Describe a movie you liked and why it left an impression.",
+    "suggested_duration_seconds": 60
+  },
+  {
+    "id": 18,
+    "title": "Talk about a challenge you solved",
+    "category": "Personal",
+    "prompt": "Describe a difficult problem you faced and how you solved it.",
+    "suggested_duration_seconds": 60
+  },
+  {
+    "id": 19,
+    "title": "Talk about teamwork",
+    "category": "Career",
+    "prompt": "Share an experience where you worked well as part of a team.",
+    "suggested_duration_seconds": 60
+  },
+  {
+    "id": 20,
+    "title": "Talk about leadership",
+    "category": "Career",
+    "prompt": "Describe a time you led a group or took initiative.",
+    "suggested_duration_seconds": 60
+  },
+  {
+    "id": 21,
+    "title": "Talk about technology",
+    "category": "Technology",
+    "prompt": "Share your views on how technology is shaping daily life.",
+    "suggested_duration_seconds": 60
+  },
+  {
+    "id": 22,
+    "title": "Talk about AI",
+    "category": "Technology",
+    "prompt": "Share your understanding of artificial intelligence and its impact.",
+    "suggested_duration_seconds": 60
+  },
+  {
+    "id": 23,
+    "title": "Talk about your future career",
+    "category": "Career",
+    "prompt": "Describe the career path you hope to follow and why.",
+    "suggested_duration_seconds": 60
+  },
+  {
+    "id": 24,
+    "title": "Describe a successful day",
+    "category": "Personal",
+    "prompt": "Talk about a day when everything went well for you.",
+    "suggested_duration_seconds": 60
+  },
+  {
+    "id": 25,
+    "title": "Describe a difficult experience",
+    "category": "Personal",
+    "prompt": "Share a challenging time in your life and what you learned.",
+    "suggested_duration_seconds": 60
+  },
+  {
+    "id": 26,
+    "title": "Talk about college life",
+    "category": "Education",
+    "prompt": "Describe what college life is generally like for you.",
+    "suggested_duration_seconds": 60
+  },
+  {
+    "id": 27,
+    "title": "Talk about your dream job",
+    "category": "Career",
+    "prompt": "Describe the job you would love to have and why.",
+    "suggested_duration_seconds": 60
+  },
+  {
+    "id": 28,
+    "title": "Talk about your learning journey",
+    "category": "Education",
+    "prompt": "Reflect on how your skills and knowledge have grown over time.",
+    "suggested_duration_seconds": 60
+  },
+  {
+    "id": 29,
+    "title": "Explain your project",
+    "category": "Academic",
+    "prompt": "Give a clear explanation of a project, its goal, and your role.",
+    "suggested_duration_seconds": 60
+  },
+  {
+    "id": 30,
+    "title": "Explain your career goal",
+    "category": "Career",
+    "prompt": "Describe where you want your career to go in the next few years.",
+    "suggested_duration_seconds": 60
+  },
+  {
+    "id": 31,
+    "title": "Talk about a person who inspires you",
+    "category": "Personal",
+    "prompt": "Describe someone who has influenced or motivated you.",
+    "suggested_duration_seconds": 60
+  },
+  {
+    "id": 32,
+    "title": "Talk about your favorite place to visit",
+    "category": "Culture",
+    "prompt": "Describe a place you love visiting and why.",
+    "suggested_duration_seconds": 60
+  }
+]

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="sm-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6C63FF"/>
+      <stop offset="100%" stop-color="#4FC3F7"/>
+    </linearGradient>
+  </defs>
+  <circle cx="100" cy="100" r="92" fill="url(#sm-grad)"/>
+  <circle cx="100" cy="100" r="92" fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="4"/>
+  <g fill="#FFFFFF">
+    <path d="M60 70 q40 -25 80 0 v40 q-40 25 -80 0 z" opacity="0.95"/>
+    <circle cx="78" cy="90" r="5"/>
+    <circle cx="122" cy="90" r="5"/>
+    <path d="M70 108 q30 18 60 0" stroke="#6C63FF" stroke-width="4" fill="none" stroke-linecap="round"/>
+  </g>
+  <text x="100" y="165" text-anchor="middle" font-family="Poppins, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">SpeakMate</text>
+</svg>
